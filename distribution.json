@@ -11,17 +11,17 @@
       "id": "Bedragoth-1.12.2",
       "name": "Bedragoth (Minecraft 1.12.2)",
       "description": "Bedragoth Running Minecraft 1.12.2 (Forge v14.23.5.2854)",
-      "icon": null,
+      "icon": https://raw.githubusercontent.com/Anathos77/Test/master/icon.png,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "178.33.77.158:27120",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.12.2-14.23.5.2854:universal",
