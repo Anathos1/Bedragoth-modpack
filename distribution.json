@@ -11,7 +11,7 @@
       "id": "Bedragoth-1.12.2",
       "name": "Bedragoth (Minecraft 1.12.2)",
       "description": "Bedragoth Running Minecraft 1.12.2 (Forge v14.23.5.2854)",
-      "icon": https://raw.githubusercontent.com/Anathos77/Test/master/icon.png.png,
+      "icon": null,
       "version": "1.0.0",
       "address": "178.33.77.158:27120",
       "minecraftVersion": "1.12.2",
