@@ -261,8 +261,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3264747,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/required/betteranimalsplus-1.12.2-7.0.0.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/betteranimalsplus-1.12.2-7.0.0.jar",
             "MD5": "74f232180fbb1e3f4a1ce6febefbff15"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -281,8 +284,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5148425,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/required/BiblioCraft[v2.4.3][MC1.12.0].jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/BiblioCraft[v2.4.3][MC1.12.0].jar",
             "MD5": "a3733a86d30d0a3c0ce585e838ea7db1"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -321,8 +327,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1324905,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/required/dawnoftime_builder_edition-1.0.7.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/dawnoftime_builder_edition-1.0.7.jar",
             "MD5": "33553ba27f0286fbfaa58fd546c04499"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -331,8 +340,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 22440403,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/required/DrZharks+MoCreatures+Mod-12.0.5.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/DrZharks+MoCreatures+Mod-12.0.5.jar",
             "MD5": "b02c58883f3d2956017639c6000d071e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -351,8 +363,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 254182,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/required/Floocraft+1.12.2-1.9.6.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/Floocraft+1.12.2-1.9.6.jar",
             "MD5": "3621c4fdf8795bcfadedd6dc52c83c7f"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -373,6 +388,19 @@
             "size": 5772310,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/required/Forgelin-1.8.3.jar",
             "MD5": "d729a4a101a5687329526f6cb7adc64d"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:1.12.2-5.5.5@jar",
+          "name": "JourneyMap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1920463,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/journeymap-1.12.2-5.5.5.jar",
+            "MD5": "d2249af8a61002ee976fcea804e46f3b"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -467,8 +495,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11360786,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/required/Thaumcraft-Mod-1.12.2.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/Thaumcraft-Mod-1.12.2.jar",
             "MD5": "3b13783ccaafb5d5b9ce8cb85e87fff6"
+          },
+          "required": {
+            "value": false
           }
         },
         {
