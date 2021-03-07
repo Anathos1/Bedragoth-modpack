@@ -256,19 +256,6 @@
           }
         },
         {
-          "id": "its_meow.betteranimalsplus:betteranimalsplus:1.12.2-7.0.0@jar",
-          "name": "Better Animals Plus",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3264747,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/betteranimalsplus-1.12.2-7.0.0.jar",
-            "MD5": "74f232180fbb1e3f4a1ce6febefbff15"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "mods.betterfoliage:betterfoliage:2.3.1@jar",
           "name": "Better Foliage",
           "type": "ForgeMod",
@@ -276,19 +263,6 @@
             "size": 937680,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/required/BetterFoliage-MC1.12-2.3.1.jar",
             "MD5": "fe8b72e0045c06136ca64f736090ac7a"
-          }
-        },
-        {
-          "id": "jds.bibliocraft:bibliocraft:2.4.3@jar",
-          "name": "BiblioCraft",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5148425,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/BiblioCraft[v2.4.3][MC1.12.0].jar",
-            "MD5": "a3733a86d30d0a3c0ce585e838ea7db1"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -319,32 +293,6 @@
             "size": 10440159,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/required/Custom-NPCs-Mod-1.12.2.jar",
             "MD5": "e8f289624d99a67ee3b78c6524b96b45"
-          }
-        },
-        {
-          "id": "org.dawnoftimebuilder:dawnoftimebuilder:1.0.6@jar",
-          "name": "Dawn Of Time : Builder Edition",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1324905,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/dawnoftime_builder_edition-1.0.7.jar",
-            "MD5": "33553ba27f0286fbfaa58fd546c04499"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "drzhark.mocreatures:mocreatures:12.0.5@jar",
-          "name": "DrZhark's Mo'Creatures Mod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 22440403,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/DrZharks+MoCreatures+Mod-12.0.5.jar",
-            "MD5": "b02c58883f3d2956017639c6000d071e"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -418,19 +366,6 @@
           }
         },
         {
-          "id": "com.mcwbridges.kikoz:mcwbridges:1.0.3@jar",
-          "name": "Macaw's Bridges",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 84393,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/mcw-bridges-1.0.3-mc1.12.2.jar",
-            "MD5": "943fb572dd3d049a866e0792f370526f"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "noppes.mpm:moreplayermodels:(05Dec19)@jar",
           "name": "MorePlayerModels",
           "type": "ForgeMod",
@@ -471,32 +406,6 @@
             "size": 110248,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/quickhotbar_1122_1.05.jar",
             "MD5": "5703593a1879c0c428df490ec4f6b290"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "gollorum.signpost:signpost:1.12-1.06.1@jar",
-          "name": "Sign Post",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 393239,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/signpost-1.12-1.06.1.jar",
-            "MD5": "aa7a9eb70bfd7b4c6df4bd705811696c"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "thaumcraft:thaumcraft:1.12.2-6.1.BETA26@jar",
-          "name": "Thaumcraft",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 11360786,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/Thaumcraft-Mod-1.12.2.jar",
-            "MD5": "3b13783ccaafb5d5b9ce8cb85e87fff6"
           },
           "required": {
             "value": false
