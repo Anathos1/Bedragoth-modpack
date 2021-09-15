@@ -10,7 +10,7 @@
     {
       "id": "Bedragoth-1.12.2",
       "name": "Bedragoth (Minecraft 1.12.2)",
-      "description": "Bedragoth Running Minecraft 1.12.2 (Forge v14.23.5.2854)",
+      "description": "Bedragoth Running Minecraft 1.12.2 (Forge v14.23.5.2855)",
       "icon": "https://raw.githubusercontent.com/Anathos77/Test/master/icon.png",
       "version": "1.0.0",
       "address": "178.33.77.158:27120",
@@ -24,23 +24,23 @@
       "autoconnect": false,
       "modules": [
         {
-          "id": "net.minecraftforge:forge:1.12.2-14.23.5.2854:universal",
+          "id": "net.minecraftforge:forge:1.12.2-14.23.5.2855:universal",
           "name": "Minecraft Forge",
           "type": "ForgeHosted",
           "artifact": {
-            "size": 4464068,
-            "MD5": "ff6f0650ff84d4c8e03da9a4f536d9e1",
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2854/forge-1.12.2-14.23.5.2854-universal.jar"
+            "size": 4464387,
+            "MD5": "02fcc447bb8938e5214292e4d36ec949",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraftforge/forge/1.12.2-14.23.5.2855/forge-1.12.2-14.23.5.2855-universal.jar"
           },
           "subModules": [
             {
-              "id": "1.12.2-14.23.5.2854",
+              "id": "1.12.2-14.23.5.2855",
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
                 "size": 10873,
-                "MD5": "814f52398b6ebf70d22571307d2298eb",
-                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/versions/1.12.2-forge-14.23.5.2854/1.12.2-forge-14.23.5.2854.json"
+                "MD5": "5d114618e561d76e0f692c2d69dcb784",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/versions/1.12.2-forge-14.23.5.2855/1.12.2-forge-14.23.5.2855.json"
               }
             },
             {
@@ -236,13 +236,42 @@
           ]
         },
         {
+          "id": "com.suppergerrie2.alwayseat:salwayseat:1.1@jar",
+          "name": "Always Eat Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6536,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/alwayseat-1.1.jar",
+            "MD5": "b25c261cce32d5c39a3d902938dcec2c"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "de.mennomax:astikorcarts:0.1.2.7@jar",
           "name": "AstikorCarts",
           "type": "ForgeMod",
           "artifact": {
             "size": 102399,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/required/astikorcarts-1.12.2-0.1.2.7.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/astikorcarts-1.12.2-0.1.2.7.jar",
             "MD5": "af7be118e58fb1e205c33a7587a77eef"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.aeronica.mods:bard_mania:0.14.0-alpha@jar",
+          "name": "Bard Mania",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 488536,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/Bard-Mania-Mod-1.12.2.jar",
+            "MD5": "b283bb7728c85bd04d89853964da912e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -251,8 +280,24 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 108450,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/required/Baubles-1.12-1.5.2.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/Baubles-1.12-1.5.2.jar",
             "MD5": "944dec4ef3fbfd4d498d94a7047af201"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "its_meow.betteranimalsplus:betteranimalsplus:1.12.2-7.0.0@jar",
+          "name": "Better Animals Plus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3264747,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/betteranimalsplus-1.12.2-7.0.0.jar",
+            "MD5": "74f232180fbb1e3f4a1ce6febefbff15"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -261,8 +306,24 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 937680,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/required/BetterFoliage-MC1.12-2.3.1.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/BetterFoliage-MC1.12-2.3.1.jar",
             "MD5": "fe8b72e0045c06136ca64f736090ac7a"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "jds.bibliocraft:bibliocraft:2.4.3@jar",
+          "name": "BiblioCraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5148425,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/BiblioCraft[v2.4.3][MC1.12.0].jar",
+            "MD5": "a3733a86d30d0a3c0ce585e838ea7db1"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -271,8 +332,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 737407,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/required/Chisels-and-Bits-Mod-1.12.2.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/Chisels-and-Bits-Mod-1.12.2.jar",
             "MD5": "e056e23559965f2ebabf47aad0fe51a3"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -281,8 +345,24 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 60802913,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/required/ConquestReforged-3.0.2-mc1.12.2.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/ConquestReforged-3.0.2-mc1.12.2.jar",
             "MD5": "4ad1a90bcbecae097b984a4ee3695929"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.creativemd:creativecore:1.10@jar",
+          "name": "CreativeCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1211292,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/CreativeCore_v1.10.47_mc1.12.2.jar",
+            "MD5": "78974950f6836fe7a55e9846fcfeacfb"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -291,8 +371,50 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 10440159,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/required/Custom-NPCs-Mod-1.12.2.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/Custom-NPCs-Mod-1.12.2.jar",
             "MD5": "e8f289624d99a67ee3b78c6524b96b45"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "org.dawnoftimebuilder:dawnoftimebuilder:1.0.6@jar",
+          "name": "Dawn Of Time : Builder Edition",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1324905,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/dawnoftime_builder_edition-1.0.7.jar",
+            "MD5": "33553ba27f0286fbfaa58fd546c04499"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "drzhark.mocreatures:mocreatures:12.0.5@jar",
+          "name": "DrZhark's Mo'Creatures Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 22440403,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/DrZharks+MoCreatures+Mod-12.0.5.jar",
+            "MD5": "b02c58883f3d2956017639c6000d071e"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "org.orecruncher:dsurround:1.12.2-3.6.2.1@jar",
+          "name": "Dynamic Surroundings",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15040104,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/dsurround-1.12.2-3.6.2.1.jar",
+            "MD5": "73cd6e10ae80337b8e1680806a34cb93"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -301,18 +423,21 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 22504474,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/required/DynamicSurroundings-1.12.2-3.4.10.6.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/DynamicSurroundings-1.12.2-3.4.10.6.jar",
             "MD5": "31446cb1849ae51004e824802938dd66"
+          },
+          "required": {
+            "value": false
           }
         },
         {
-          "id": "com.fredtargaryen.floocraft:floocraftft:1.9.6@jar",
-          "name": "Floocraft",
+          "id": "mod.flatcoloredblocks:flatcoloredblocks:mc1.12-6.8@jar",
+          "name": "Flat Colored Blocks",
           "type": "ForgeMod",
           "artifact": {
-            "size": 254182,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/Floocraft+1.12.2-1.9.6.jar",
-            "MD5": "3621c4fdf8795bcfadedd6dc52c83c7f"
+            "size": 139609,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/flatcoloredblocks-mc1.12-6.8.jar",
+            "MD5": "1a9d559c5d183029733e1ddb4b15307b"
           },
           "required": {
             "value": false
@@ -324,8 +449,24 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 211210,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/required/foamfix-0.10.5-1.12.2.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/foamfix-0.10.5-1.12.2.jar",
             "MD5": "ec2829750206833af9ee098c5ddb8e32"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.wumple:foodfunk:4.9.6@jar",
+          "name": "Food Funk",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 677804,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/foodfunk-1.12.2-4.9.6.jar",
+            "MD5": "44135fdcedd9ff3e3f5dc045e885202e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -334,8 +475,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5772310,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/required/Forgelin-1.8.3.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/Forgelin-1.8.3.jar",
             "MD5": "d729a4a101a5687329526f6cb7adc64d"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -352,17 +496,42 @@
           }
         },
         {
-          "id": "journeymap:journeymap:1.12.2-5.5.5@jar",
-          "name": "JourneyMap",
+          "id": "com.creativemd:littletiles:1.5.0@jar",
+          "name": "LittleTiles",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1920463,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionaloff/journeymap-1.12.2-5.5.5.jar",
-            "MD5": "d2249af8a61002ee976fcea804e46f3b"
+            "size": 2053795,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/LittleTiles_v1.5.0-pre324_mc1.12.2.jar",
+            "MD5": "07e7cf92346cf1f2dc084f34607ded13"
           },
           "required": {
-            "value": false,
-            "def": false
+            "value": false
+          }
+        },
+        {
+          "id": "net.timardo:lt3dimporter:0.5@jar",
+          "name": "LT 3D Importer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 94891,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/lt3dimporter-0.5.jar",
+            "MD5": "2d9c334aa0103c869caf096a3288db8a"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "goblinbob.mobends.standard.main:mobends:1.0.0-beta-20.06.20@jar",
+          "name": "Mo' Bends",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 703346,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/MoBends_1.12.2-1.0.0-beta-20.06.20.jar",
+            "MD5": "d77d93d13d89c2ec4ff10887519daab8"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -371,8 +540,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 939984,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/required/MorePlayerModels_1.12.2-(05Dec19).jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/MorePlayerModels_1.12.2-(05Dec19).jar",
             "MD5": "ca203e960d9d411674231c2a4a6ef1c1"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -389,13 +561,42 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.12.2_HD_U_F4_pre3@jar",
-          "name": "OptiFine 1.12.2_HD_U_F4_pre3",
+          "id": "com.mrcrayfish.obfuscate.asm:obfuscate:Mod-1.12.2@jar",
+          "name": "Obfuscate",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2589172,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/required/preview_OptiFine_1.12.2_HD_U_F4_pre3.jar",
-            "MD5": "55623a3ac47fbf5adc5b3fea91531968"
+            "size": 37885,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/Obfuscate-Mod-1.12.2.jar",
+            "MD5": "cd9a7ba708e9678a1de66865a7c9ae14"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.optifine:optifine:1.12.2_HD_U_F5@jar",
+          "name": "OptiFine 1.12.2_HD_U_F5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2598821,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/optifine-1.12.2_HD_U_F5.jar",
+            "MD5": "043ac1db6f7441ea4cf31bcb621aff0b"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "org.orecruncher:orelib:1.12.2-3.6.0.1@jar",
+          "name": "OreLib Support Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 341728,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/orelib-1.12.2-3.6.0.1.jar",
+            "MD5": "00cce3b240365458adcad3e77782358a"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -412,6 +613,45 @@
           }
         },
         {
+          "id": "thaumcraft:thaumcraft:1.12.2-6.1.BETA26@jar",
+          "name": "Thaumcraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11360786,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/Thaumcraft-Mod-1.12.2.jar",
+            "MD5": "3b13783ccaafb5d5b9ce8cb85e87fff6"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.westeroscraft:westerosblocks:4.2.0-106@jar",
+          "name": "WesterosBlocks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 18287745,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/westerosblocks-4.2.0-106.jar",
+            "MD5": "482dc28327bff6b76efacd003df845f5"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.silentchaos512:wit:1.0.25@jar",
+          "name": "WIT",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 59069,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/WIT-1.12.jar",
+            "MD5": "bb1dd6e926635d2bac407102bd7b957f"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.github.hexomod:worldeditcuife2:2.1.2-mf-1.12.2-14.23.5.2768@jar",
           "name": "WorldEdit CUI Forge Edition 2",
           "type": "ForgeMod",
@@ -422,39 +662,6 @@
           },
           "required": {
             "value": false
-          }
-        },
-        {
-          "id": "AC_Overlay-2.3.zip",
-          "name": "AC_Overlay-2.3.zip",
-          "type": "File",
-          "artifact": {
-            "size": 27806359,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/files/AC_Overlay-2.3.zip",
-            "MD5": "bb6bfd8bbbb13072bfb3d0e24689c111",
-            "path": "AC_Overlay-2.3.zip"
-          }
-        },
-        {
-          "id": "Conquest_1.12.rar",
-          "name": "Conquest_1.12.rar",
-          "type": "File",
-          "artifact": {
-            "size": 83072426,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/files/Conquest_1.12.rar",
-            "MD5": "e9c2016597c517e38da475af0e497ec0",
-            "path": "Conquest_1.12.rar"
-          }
-        },
-        {
-          "id": "Conquest_Reforged.zip",
-          "name": "Conquest_Reforged.zip",
-          "type": "File",
-          "artifact": {
-            "size": 85322951,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/files/Conquest_Reforged.zip",
-            "MD5": "54db10d1ae7fd62093e1e754fe194076",
-            "path": "Conquest_Reforged.zip"
           }
         }
       ]
