@@ -703,6 +703,19 @@
           }
         },
         {
+          "id": "com.westeroscraft:westerosblocks:4.2.0-106@jar",
+          "name": "WesterosBlocks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 18287745,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/westerosblocks-4.2.0-106.jar",
+            "MD5": "482dc28327bff6b76efacd003df845f5"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.github.hexomod:worldeditcuife2:2.1.2-mf-1.12.2-14.23.5.2768@jar",
           "name": "WorldEdit CUI Forge Edition 2",
           "type": "ForgeMod",
