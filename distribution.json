@@ -331,6 +331,19 @@
           }
         },
         {
+          "id": "mods.betterfoliage:betterfoliage:2.3.1@jar",
+          "name": "Better Foliage",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 937680,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/BetterFoliage-MC1.12-2.3.1.jar",
+            "MD5": "fe8b72e0045c06136ca64f736090ac7a"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "jds.bibliocraft:bibliocraft:2.4.3@jar",
           "name": "BiblioCraft",
           "type": "ForgeMod",
@@ -364,6 +377,19 @@
             "size": 60802913,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/required/ConquestReforged-3.0.2-mc1.12.2.jar",
             "MD5": "4ad1a90bcbecae097b984a4ee3695929"
+          }
+        },
+        {
+          "id": "com.conquestreforged:conquest:3.0.2@jar",
+          "name": "Conquest Reforged",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 60802913,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/ConquestReforged-3.0.2-mc1.12.2.jar",
+            "MD5": "4ad1a90bcbecae097b984a4ee3695929"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -468,6 +494,19 @@
           }
         },
         {
+          "id": "pl.asie:foamfix:0.10.5-1.12.2@jar",
+          "name": "FoamFix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 211210,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/foamfix-0.10.5-1.12.2.jar",
+            "MD5": "ec2829750206833af9ee098c5ddb8e32"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "net.shadowfacts:forgelin:1.8.3@jar",
           "name": "Shadowfacts' Forgelin",
           "type": "ForgeMod",
@@ -475,6 +514,19 @@
             "size": 5772310,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/required/Forgelin-1.8.3.jar",
             "MD5": "d729a4a101a5687329526f6cb7adc64d"
+          }
+        },
+        {
+          "id": "net.shadowfacts:forgelin:1.8.3@jar",
+          "name": "Shadowfacts' Forgelin",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5772310,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/Forgelin-1.8.3.jar",
+            "MD5": "d729a4a101a5687329526f6cb7adc64d"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -540,6 +592,19 @@
           }
         },
         {
+          "id": "noppes.mpm:moreplayermodels:(05Dec19)@jar",
+          "name": "MorePlayerModels",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 939984,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/MorePlayerModels_1.12.2-(05Dec19).jar",
+            "MD5": "ca203e960d9d411674231c2a4a6ef1c1"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.bobmowzie:mowziesmobs:1.5.8@jar",
           "name": "Mowzie's Mobs",
           "type": "ForgeMod",
@@ -566,6 +631,19 @@
           }
         },
         {
+          "id": "com.mrcrayfish.obfuscate.asm:obfuscate:0.2.6-1.12.2@jar",
+          "name": "Obfuscate",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37885,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/obfuscate-0.2.6-1.12.2.jar",
+            "MD5": "cd9a7ba708e9678a1de66865a7c9ae14"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "net.optifine:optifine:1.12.2_HD_U_F5@jar",
           "name": "OptiFine 1.12.2_HD_U_F5",
           "type": "ForgeMod",
@@ -573,6 +651,19 @@
             "size": 2598821,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/required/optifine-1.12.2_HD_U_F5.jar",
             "MD5": "043ac1db6f7441ea4cf31bcb621aff0b"
+          }
+        },
+        {
+          "id": "generated.forgemod:optifine:1.12.2_HD_U_F5@jar",
+          "name": "OptiFine 1.12.2_HD_U_F5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2598821,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/optifine-1.12.2_HD_U_F5.jar",
+            "MD5": "043ac1db6f7441ea4cf31bcb621aff0b"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -596,6 +687,19 @@
             "size": 16612,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/required/ResourceLoader-MC1.12.1-1.5.3.jar",
             "MD5": "51141e882f96ce756b9b3d25f2acdf57"
+          }
+        },
+        {
+          "id": "lumien.resourceloader:resourceloader:1.5.3@jar",
+          "name": "Resource Loader",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 16612,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/ResourceLoader-MC1.12.1-1.5.3.jar",
+            "MD5": "51141e882f96ce756b9b3d25f2acdf57"
+          },
+          "required": {
+            "value": false
           }
         },
         {
