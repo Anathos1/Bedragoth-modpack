@@ -631,13 +631,13 @@
           }
         },
         {
-          "id": "com.mrcrayfish.obfuscate.asm:obfuscate:0.2.6-1.12.2@jar",
+          "id": "com.mrcrayfish.obfuscate.asm:obfuscate:0.2.7-1.12.2@jar",
           "name": "Obfuscate",
           "type": "ForgeMod",
           "artifact": {
-            "size": 37885,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/obfuscate-0.2.6-1.12.2.jar",
-            "MD5": "cd9a7ba708e9678a1de66865a7c9ae14"
+            "size": 83944,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/obfuscate-0.2.7-1.12.2.jar",
+            "MD5": "bee8e9af2ff2ffd5b7f047012773d759"
           },
           "required": {
             "value": false
