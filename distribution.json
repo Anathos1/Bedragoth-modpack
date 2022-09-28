@@ -738,6 +738,39 @@
           "required": {
             "value": false
           }
+        },
+        {
+          "id": "mainmenu.json",
+          "name": "mainmenu.json",
+          "type": "File",
+          "artifact": {
+            "size": 2164,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/files/config/CustomMainMenu/mainmenu.json",
+            "MD5": "43b4bcee83330c2637f187083f490713",
+            "path": "config/CustomMainMenu/mainmenu.json"
+          }
+        },
+        {
+          "id": "Conquest+Reforged+RP.zip",
+          "name": "Conquest+Reforged+RP.zip",
+          "type": "File",
+          "artifact": {
+            "size": 77628036,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/files/resourcepacks/Conquest+Reforged+RP.zip",
+            "MD5": "0da376d2d6b3e8f3b0738bbc89360384",
+            "path": "resourcepacks/Conquest+Reforged+RP.zip"
+          }
+        },
+        {
+          "id": "bg.png",
+          "name": "bg.png",
+          "type": "File",
+          "artifact": {
+            "size": 2829821,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/files/resources/mainmenu/textures/bg.png",
+            "MD5": "5fa65f4713256f6cab061f26837f06eb",
+            "path": "resources/mainmenu/textures/bg.png"
+          }
         }
       ]
     }
