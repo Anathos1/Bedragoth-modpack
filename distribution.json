@@ -344,19 +344,6 @@
           }
         },
         {
-          "id": "com.wumple:composter:1.9.2@jar",
-          "name": "Canny Composter",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 83931,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/composter-1.12.2-1.9.2.jar",
-            "MD5": "e4f77f9b928514fc0df392706afd51f1"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "com.conquestreforged:conquest:3.0.2@jar",
           "name": "Conquest Reforged",
           "type": "ForgeMod",
@@ -478,19 +465,6 @@
           }
         },
         {
-          "id": "com.wumple:foodfunk:4.9.6@jar",
-          "name": "Food Funk",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 677804,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/foodfunk-1.12.2-4.9.6.jar",
-            "MD5": "44135fdcedd9ff3e3f5dc045e885202e"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "net.shadowfacts:forgelin:1.8.3@jar",
           "name": "Shadowfacts' Forgelin",
           "type": "ForgeMod",
@@ -506,12 +480,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 20467820,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionaloff/iceandfire-1.9.1-1.12.2.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/iceandfire-1.9.1-1.12.2.jar",
             "MD5": "58c453b85285c4e82cfc6fad35ffb537"
           },
           "required": {
-            "value": false,
-            "def": false
+            "value": false
           }
         },
         {
@@ -721,19 +694,6 @@
             "size": 459294,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/WorldEdit+CUI+Forge+Edition+2-2.1.2-mf-1.12.2-14.23.5.2768.jar",
             "MD5": "c3b73126dae2412b7f2240db4073cffd"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "com.wumple:wumpleutil:2.12.9@jar",
-          "name": "Wumple Util Library",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 458547,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/wumpleutil-1.12.2-2.12.9.jar",
-            "MD5": "55a39cd08d503a7a771cdc3e7f5c562d"
           },
           "required": {
             "value": false
