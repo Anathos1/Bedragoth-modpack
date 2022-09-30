@@ -687,19 +687,6 @@
           }
         },
         {
-          "id": "generated.forgemod:worldedit:bukkit-7.2.0-dist@jar",
-          "name": "Worldedit",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4386265,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/worldedit-bukkit-7.2.0-dist.jar",
-            "MD5": "2032028674a262192c14bf8ee195f5e4"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "com.github.hexomod:worldeditcuife2:2.1.2-mf-1.12.2-14.23.5.2768@jar",
           "name": "WorldEdit CUI Forge Edition 2",
           "type": "ForgeMod",
@@ -724,14 +711,14 @@
           }
         },
         {
-          "id": "Conquest+Reforged+RP+Bedra.zip",
-          "name": "Conquest+Reforged+RP+Bedra.zip",
+          "id": "Conquest+Reforged+RP+Bedra.rar",
+          "name": "Conquest+Reforged+RP+Bedra.rar",
           "type": "File",
           "artifact": {
-            "size": 79403716,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/files/resourcepacks/Conquest+Reforged+RP+Bedra.zip",
-            "MD5": "77c55adb1a2ce6f7cfb1c87090b0259d",
-            "path": "resourcepacks/Conquest+Reforged+RP+Bedra.zip"
+            "size": 73670062,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/files/resourcepacks/Conquest+Reforged+RP+Bedra.rar",
+            "MD5": "a7d8399b70b9654473aa230bfb4e8dbb",
+            "path": "resourcepacks/Conquest+Reforged+RP+Bedra.rar"
           }
         },
         {
