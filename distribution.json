@@ -354,6 +354,19 @@
           }
         },
         {
+          "id": "com.blamejared:crafttweaker:1.12-4.1.20.680@jar",
+          "name": "CraftTweaker2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1574974,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/CraftTweaker2-1.12-4.1.20.680.jar",
+            "MD5": "3065466e28b5a3d10fb62154cde8e190"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.creativemd:creativecore:1.10@jar",
           "name": "CreativeCore",
           "type": "ForgeMod",
@@ -449,6 +462,19 @@
             "size": 139609,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/flatcoloredblocks-mc1.12-6.8.jar",
             "MD5": "1a9d559c5d183029733e1ddb4b15307b"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "git.jbredwards.fluidlogged_api.mod:fluidlogged_api:v1.8.1e-mc1.12.2@jar",
+          "name": "Fluidlogged API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 223501,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/Fluidlogged-API-v1.8.1e-mc1.12.2.jar",
+            "MD5": "7f086215810e0aea14f43493c633f78b"
           },
           "required": {
             "value": false
@@ -711,14 +737,14 @@
           }
         },
         {
-          "id": "Conquest+Reforged+RP.zip",
-          "name": "Conquest+Reforged+RP.zip",
+          "id": "Conquest+Reforged+RP+Bedra.zip",
+          "name": "Conquest+Reforged+RP+Bedra.zip",
           "type": "File",
           "artifact": {
-            "size": 77628036,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/files/resourcepacks/Conquest+Reforged+RP.zip",
-            "MD5": "0da376d2d6b3e8f3b0738bbc89360384",
-            "path": "resourcepacks/Conquest+Reforged+RP.zip"
+            "size": 79403716,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/files/resourcepacks/Conquest+Reforged+RP+Bedra.zip",
+            "MD5": "77c55adb1a2ce6f7cfb1c87090b0259d",
+            "path": "resourcepacks/Conquest+Reforged+RP+Bedra.zip"
           }
         },
         {
