@@ -711,14 +711,14 @@
           }
         },
         {
-          "id": "Conquest+Reforged+RP+Bedra.rar",
-          "name": "Conquest+Reforged+RP+Bedra.rar",
+          "id": "Conquest+Reforged+RP.rar",
+          "name": "Conquest+Reforged+RP.rar",
           "type": "File",
           "artifact": {
             "size": 73670062,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/files/resourcepacks/Conquest+Reforged+RP+Bedra.rar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/files/resourcepacks/Conquest+Reforged+RP.rar",
             "MD5": "a7d8399b70b9654473aa230bfb4e8dbb",
-            "path": "resourcepacks/Conquest+Reforged+RP+Bedra.rar"
+            "path": "resourcepacks/Conquest+Reforged+RP.rar"
           }
         },
         {
