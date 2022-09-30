@@ -468,19 +468,6 @@
           }
         },
         {
-          "id": "git.jbredwards.fluidlogged_api.mod:fluidlogged_api:v1.8.1e-mc1.12.2@jar",
-          "name": "Fluidlogged API",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 223501,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.12.2/forgemods/optionalon/Fluidlogged-API-v1.8.1e-mc1.12.2.jar",
-            "MD5": "7f086215810e0aea14f43493c633f78b"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "pl.asie:foamfix:0.10.5-1.12.2@jar",
           "name": "FoamFix",
           "type": "ForgeMod",
