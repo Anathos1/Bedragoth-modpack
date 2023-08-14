@@ -71,7 +71,7 @@
               "type": "Library",
               "artifact": {
                 "size": 11352644,
-                "MD5": "c39bae19fa93f8c051210ef3c70ba722",
+                "MD5": "8f04358d75cdab434ad976d1af51b4b8",
                 "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
               },
               "subModules": []
@@ -702,13 +702,13 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.16.5_HD_U_G8@jar",
+          "id": "net.optifine:optifine:1.16.5_HD_U_G7@jar",
           "name": "OptiFine",
           "type": "ForgeMod",
           "artifact": {
-            "size": 6046996,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G8.jar",
-            "MD5": "e0717ba6d1674af83036ebc479fc77b4"
+            "size": 5924305,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G7.jar",
+            "MD5": "9d323219bdebf4e22a1d90f99f839cc0"
           },
           "required": {
             "value": false
