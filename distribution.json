@@ -71,7 +71,7 @@
               "type": "Library",
               "artifact": {
                 "size": 11352644,
-                "MD5": "89b1dc73924e0cf79b0a5d032a17b2b2",
+                "MD5": "c39bae19fa93f8c051210ef3c70ba722",
                 "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
               },
               "subModules": []
@@ -395,8 +395,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 551889,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/required/architectury-1.32.68.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/architectury-1.32.68.jar",
             "MD5": "74a431a4f1a32ec5bbb4bfeb120887c6"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -444,8 +447,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 81199992,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/required/betterendforge-1.16.5-1.6.3.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/betterendforge-1.16.5-1.6.3.jar",
             "MD5": "3ba6c4744fb853b099e838b8e90adc15"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -454,8 +460,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 246971,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/required/betterfoliage-1.2.0.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/betterfoliage-1.2.0.jar",
             "MD5": "f04d284ed4e9efe0206a66a31c051fd9"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -490,8 +499,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 482439,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/required/citadel-1.8.1-1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/citadel-1.8.1-1.16.5.jar",
             "MD5": "9ee0682eec5d343c6238e30c21c98e69"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -500,8 +512,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 9506444,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/required/ConquestRecipes-1.16.5-v1.0.3.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/ConquestRecipes-1.16.5-v1.0.3.jar",
             "MD5": "60b6cd842550635e30f256cb8cc3f263"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -510,8 +525,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 93179562,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/required/ConquestReforged-mc1.16.5-5.0.10.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/ConquestReforged-mc1.16.5-5.0.10.jar",
             "MD5": "95332f29bed8a9bf0bae9f326d521891"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -585,8 +603,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 420923,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/required/flywheel-1.16-0.2.5.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/flywheel-1.16-0.2.5.jar",
             "MD5": "0964200fddbd4ff67dfab63c5aae161a"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -595,8 +616,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3559283,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/required/geckolib-forge-1.16.5-3.0.106.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/geckolib-forge-1.16.5-3.0.106.jar",
             "MD5": "6f4524eea52474c58280c2b0ac06e1e0"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -683,8 +707,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6046996,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/required/OptiFine_1.16.5_HD_U_G8.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G8.jar",
             "MD5": "e0717ba6d1674af83036ebc479fc77b4"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -693,8 +720,24 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 540313,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/required/PackMenu-1.16.5-2.5.0.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/PackMenu-1.16.5-2.5.0.jar",
             "MD5": "a84f2bc222d795e9350d55140e24886f"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "shadows.placebo:placebo:4.7.1@jar",
+          "name": "Placebo",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 174158,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/Placebo-1.16.5-4.7.1.jar",
+            "MD5": "b9436888ceffed9622ce58e0d71f8fd2"
+          },
+          "required": {
+            "value": false
           }
         },
         {
