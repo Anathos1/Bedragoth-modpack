@@ -13,7 +13,7 @@
       "description": "Bedragoth Running Minecraft 1.16.5 (Forge v36.2.39)",
       "icon": "https://raw.githubusercontent.com/Anathos77/Test/master/icon.png",
       "version": "1.0.0",
-      "address": "54.38.236.222:25649",
+      "address": "57.128.53.223:25588",
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "Dark Fantasy",
@@ -71,7 +71,7 @@
               "type": "Library",
               "artifact": {
                 "size": 11352644,
-                "MD5": "38e0808dad17d3e2860651b57ed38980",
+                "MD5": "3dd7cdd0f28b22031c28b26829dd226e",
                 "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
               },
               "subModules": []
@@ -653,8 +653,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5924305,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/required/OptiFine_1.16.5_HD_U_G7.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G7.jar",
             "MD5": "9d323219bdebf4e22a1d90f99f839cc0"
+          },
+          "required": {
+            "value": false
           }
         },
         {
