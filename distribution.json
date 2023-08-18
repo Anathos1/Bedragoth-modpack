@@ -71,7 +71,7 @@
               "type": "Library",
               "artifact": {
                 "size": 11352644,
-                "MD5": "30c19548b2e321d09e0cc8d9897ccb14",
+                "MD5": "38e0808dad17d3e2860651b57ed38980",
                 "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
               },
               "subModules": []
@@ -395,11 +395,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 551889,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/architectury-1.32.68.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/required/architectury-1.32.68.jar",
             "MD5": "74a431a4f1a32ec5bbb4bfeb120887c6"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -442,19 +439,6 @@
           }
         },
         {
-          "id": "mod.beethoven92:betterendforge:1.16.5-1.6.3@jar",
-          "name": "BetterEnd Forge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 81199992,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/betterendforge-1.16.5-1.6.3.jar",
-            "MD5": "3ba6c4744fb853b099e838b8e90adc15"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "com.eerussianguy:betterfoliage:1.2.0@jar",
           "name": "Better Foliage",
           "type": "ForgeMod",
@@ -462,19 +446,6 @@
             "size": 246971,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/betterfoliage-1.2.0.jar",
             "MD5": "f04d284ed4e9efe0206a66a31c051fd9"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "someoneelse.betternetherreforged:betternether:1.2@jar",
-          "name": "Better Nether Reforged",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 22443866,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/betternether_reforged-1.2.jar",
-            "MD5": "f7f15ec4908c31fa4b71a441c59f2c2a"
           },
           "required": {
             "value": false
@@ -499,11 +470,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 482439,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/citadel-1.8.1-1.16.5.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/required/citadel-1.8.1-1.16.5.jar",
             "MD5": "9ee0682eec5d343c6238e30c21c98e69"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -525,11 +493,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 93179562,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/ConquestReforged-mc1.16.5-5.0.10.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/required/ConquestReforged-mc1.16.5-5.0.10.jar",
             "MD5": "95332f29bed8a9bf0bae9f326d521891"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -553,19 +518,6 @@
             "size": 12457390,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/CustomNPCs-1.16.5.20220515.jar",
             "MD5": "9d204b1c5dd8cdbe9737fbdc761f33d9"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "org.dawnoftimebuilder:dawnoftimebuilder:1.16.5-1.2.7@jar",
-          "name": "Dawn Of Time : Builder Edition",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2114257,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/dawnoftime_builder_edition-1.16.5-1.2.7.jar",
-            "MD5": "13ad2799b72593e027d0a71b15db7b77"
           },
           "required": {
             "value": false
@@ -603,11 +555,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 420923,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/flywheel-1.16-0.2.5.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/required/flywheel-1.16-0.2.5.jar",
             "MD5": "0964200fddbd4ff67dfab63c5aae161a"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -616,11 +565,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3559283,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/geckolib-forge-1.16.5-3.0.106.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/required/geckolib-forge-1.16.5-3.0.106.jar",
             "MD5": "6f4524eea52474c58280c2b0ac06e1e0"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -702,16 +648,23 @@
           }
         },
         {
+          "id": "net.optifine:optifine:1.16.5_HD_U_G7@jar",
+          "name": "OptiFine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5924305,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/required/OptiFine_1.16.5_HD_U_G7.jar",
+            "MD5": "9d323219bdebf4e22a1d90f99f839cc0"
+          }
+        },
+        {
           "id": "shadows.menu:packmenu:2.5.0@jar",
           "name": "PackMenu",
           "type": "ForgeMod",
           "artifact": {
             "size": 540313,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/PackMenu-1.16.5-2.5.0.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/required/PackMenu-1.16.5-2.5.0.jar",
             "MD5": "a84f2bc222d795e9350d55140e24886f"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -720,11 +673,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 174158,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/Placebo-1.16.5-4.7.1.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/required/Placebo-1.16.5-4.7.1.jar",
             "MD5": "b9436888ceffed9622ce58e0d71f8fd2"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -748,19 +698,6 @@
             "size": 375934,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/Waystones_1.16.5-7.6.4.jar",
             "MD5": "a73806ee8f30e26705503013a54a5961"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "com.westeroscraft:westerosblocks:5.0.271@jar",
-          "name": "WesterosBlocks",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 36215489,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/WesterosBlocks-5.0.271.jar",
-            "MD5": "cea0915f57cae9df57e1d7395ece9b26"
           },
           "required": {
             "value": false
@@ -793,14 +730,399 @@
           }
         },
         {
-          "id": "CRRP-1.16.5-5.0.8.zip",
-          "name": "CRRP-1.16.5-5.0.8.zip",
+          "id": "create-client.toml",
+          "name": "create-client.toml",
           "type": "File",
           "artifact": {
-            "size": 86438552,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resourcepacks/CRRP-1.16.5-5.0.8.zip",
-            "MD5": "0941cce86a4939923f82d65d3bc61bd9",
-            "path": "resourcepacks/CRRP-1.16.5-5.0.8.zip"
+            "size": 4121,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/config/create-client.toml",
+            "MD5": "3ed8b2a3b0a75493810d60855b6a76e4",
+            "path": "config/create-client.toml"
+          }
+        },
+        {
+          "id": "iceandfire-client.toml",
+          "name": "iceandfire-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 321,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/config/iceandfire-client.toml",
+            "MD5": "3ce4c63821b13976f4412e1f1df6e87e",
+            "path": "config/iceandfire-client.toml"
+          }
+        },
+        {
+          "id": "Copyright.txt",
+          "name": "Copyright.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1301,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resourcepacks/Arcanic%20Waystone%20Ressourcepack/Copyright.txt",
+            "MD5": "8bec9b134e31a9756cb63915f89694ff",
+            "path": "resourcepacks/Arcanic Waystone Ressourcepack/Copyright.txt"
+          }
+        },
+        {
+          "id": "Credits.txt",
+          "name": "Credits.txt",
+          "type": "File",
+          "artifact": {
+            "size": 509,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resourcepacks/Arcanic%20Waystone%20Ressourcepack/Credits.txt",
+            "MD5": "96cfe8c32023e9ade4a985b4fdd4693f",
+            "path": "resourcepacks/Arcanic Waystone Ressourcepack/Credits.txt"
+          }
+        },
+        {
+          "id": "command_block.json",
+          "name": "command_block.json",
+          "type": "File",
+          "artifact": {
+            "size": 482,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resourcepacks/Arcanic%20Waystone%20Ressourcepack/assets/minecraft/models/item/command_block.json",
+            "MD5": "a3fb08a8c1a1bc53c6f599177269db8b",
+            "path": "resourcepacks/Arcanic Waystone Ressourcepack/assets/minecraft/models/item/command_block.json"
+          }
+        },
+        {
+          "id": "ghast_spawn_egg.json",
+          "name": "ghast_spawn_egg.json",
+          "type": "File",
+          "artifact": {
+            "size": 241,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resourcepacks/Arcanic%20Waystone%20Ressourcepack/assets/minecraft/models/item/ghast_spawn_egg.json",
+            "MD5": "8c05b0db0df6435e90c8dda2c26a335f",
+            "path": "resourcepacks/Arcanic Waystone Ressourcepack/assets/minecraft/models/item/ghast_spawn_egg.json"
+          }
+        },
+        {
+          "id": "rune.json",
+          "name": "rune.json",
+          "type": "File",
+          "artifact": {
+            "size": 90,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resourcepacks/Arcanic%20Waystone%20Ressourcepack/assets/rune/models/rune.json",
+            "MD5": "26737fbc008ad3a9dd73db4cf3953497",
+            "path": "resourcepacks/Arcanic Waystone Ressourcepack/assets/rune/models/rune.json"
+          }
+        },
+        {
+          "id": "rune.png",
+          "name": "rune.png",
+          "type": "File",
+          "artifact": {
+            "size": 1426,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resourcepacks/Arcanic%20Waystone%20Ressourcepack/assets/rune/textures/rune.png",
+            "MD5": "fcab8b89b0446bff6e5507a7e5175695",
+            "path": "resourcepacks/Arcanic Waystone Ressourcepack/assets/rune/textures/rune.png"
+          }
+        },
+        {
+          "id": "pack.mcmeta",
+          "name": "pack.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 104,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resourcepacks/Arcanic%20Waystone%20Ressourcepack/pack.mcmeta",
+            "MD5": "e27eac09a9160ec43ef3899d8eadd5f0",
+            "path": "resourcepacks/Arcanic Waystone Ressourcepack/pack.mcmeta"
+          }
+        },
+        {
+          "id": "pack.png",
+          "name": "pack.png",
+          "type": "File",
+          "artifact": {
+            "size": 2305,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resourcepacks/Arcanic%20Waystone%20Ressourcepack/pack.png",
+            "MD5": "45822f059f1889b88305fbe7a8bb3a7f",
+            "path": "resourcepacks/Arcanic Waystone Ressourcepack/pack.png"
+          }
+        },
+        {
+          "id": "Conquest_reforged_Bedragoth_V1.zip",
+          "name": "Conquest_reforged_Bedragoth_V1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 86752006,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resourcepacks/Conquest_reforged_Bedragoth_V1.zip",
+            "MD5": "78c589d828a48daa6e4bd8a5c67631d9",
+            "path": "resourcepacks/Conquest_reforged_Bedragoth_V1.zip"
+          }
+        },
+        {
+          "id": "Texture_Addon_V1.zip",
+          "name": "Texture_Addon_V1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1974360,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resourcepacks/Texture_Addon_V1.zip",
+            "MD5": "52b8c8ca52ef4a70c5055c2cc8117eae",
+            "path": "resourcepacks/Texture_Addon_V1.zip"
+          }
+        },
+        {
+          "id": "Weapon_and_Armor_Custom_V1.zip",
+          "name": "Weapon_and_Armor_Custom_V1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1985797,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resourcepacks/Weapon_and_Armor_Custom_V1.zip",
+            "MD5": "8ad6aaee96164d80bb4da78ece8ce391",
+            "path": "resourcepacks/Weapon_and_Armor_Custom_V1.zip"
+          }
+        },
+        {
+          "id": "accessibility.json",
+          "name": "accessibility.json",
+          "type": "File",
+          "artifact": {
+            "size": 254,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resources/assets/packmenu/buttons/accessibility.json",
+            "MD5": "8e1feb3c330f0150e22a63ced0b23fc2",
+            "path": "resources/assets/packmenu/buttons/accessibility.json"
+          }
+        },
+        {
+          "id": "aklizaffiliate.json",
+          "name": "aklizaffiliate.json",
+          "type": "File",
+          "artifact": {
+            "size": 237,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resources/assets/packmenu/buttons/aklizaffiliate.json",
+            "MD5": "3acfe5ac378efef19109c4597e31a596",
+            "path": "resources/assets/packmenu/buttons/aklizaffiliate.json"
+          }
+        },
+        {
+          "id": "custom.json",
+          "name": "custom.json",
+          "type": "File",
+          "artifact": {
+            "size": 214,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resources/assets/packmenu/buttons/custom.json",
+            "MD5": "338f37fcee73012aa6cdbf345275d537",
+            "path": "resources/assets/packmenu/buttons/custom.json"
+          }
+        },
+        {
+          "id": "language.json",
+          "name": "language.json",
+          "type": "File",
+          "artifact": {
+            "size": 267,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resources/assets/packmenu/buttons/language.json",
+            "MD5": "f2871b0a09befaa7814b8ff86fb389b5",
+            "path": "resources/assets/packmenu/buttons/language.json"
+          }
+        },
+        {
+          "id": "mods.json",
+          "name": "mods.json",
+          "type": "File",
+          "artifact": {
+            "size": 181,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resources/assets/packmenu/buttons/mods.json",
+            "MD5": "bdb2850518c67891d6b6615585982c6b",
+            "path": "resources/assets/packmenu/buttons/mods.json"
+          }
+        },
+        {
+          "id": "multiplayer.json",
+          "name": "multiplayer.json",
+          "type": "File",
+          "artifact": {
+            "size": 192,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resources/assets/packmenu/buttons/multiplayer.json",
+            "MD5": "5f145d97da5f2093aa087c1747df06f1",
+            "path": "resources/assets/packmenu/buttons/multiplayer.json"
+          }
+        },
+        {
+          "id": "options.json",
+          "name": "options.json",
+          "type": "File",
+          "artifact": {
+            "size": 184,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resources/assets/packmenu/buttons/options.json",
+            "MD5": "4b723d837941a044066975b31c9f8fc3",
+            "path": "resources/assets/packmenu/buttons/options.json"
+          }
+        },
+        {
+          "id": "quit.json",
+          "name": "quit.json",
+          "type": "File",
+          "artifact": {
+            "size": 154,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resources/assets/packmenu/buttons/quit.json",
+            "MD5": "e50224dc71662811fc0b75340c250141",
+            "path": "resources/assets/packmenu/buttons/quit.json"
+          }
+        },
+        {
+          "id": "reloadbutton.json",
+          "name": "reloadbutton.json",
+          "type": "File",
+          "artifact": {
+            "size": 216,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resources/assets/packmenu/buttons/reloadbutton.json",
+            "MD5": "049eedcb59aecbd441771d935f582eac",
+            "path": "resources/assets/packmenu/buttons/reloadbutton.json"
+          }
+        },
+        {
+          "id": "singleplayer.json",
+          "name": "singleplayer.json",
+          "type": "File",
+          "artifact": {
+            "size": 195,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resources/assets/packmenu/buttons/singleplayer.json",
+            "MD5": "dfca1bd17aa3c5617feb7c6cbbd395ac",
+            "path": "resources/assets/packmenu/buttons/singleplayer.json"
+          }
+        },
+        {
+          "id": "en_us.json",
+          "name": "en_us.json",
+          "type": "File",
+          "artifact": {
+            "size": 72,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resources/assets/packmenu/lang/en_us.json",
+            "MD5": "a9e9e66c5981fb7db98921c413c907af",
+            "path": "resources/assets/packmenu/lang/en_us.json"
+          }
+        },
+        {
+          "id": "fr_fr.json",
+          "name": "fr_fr.json",
+          "type": "File",
+          "artifact": {
+            "size": 72,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resources/assets/packmenu/lang/fr_fr.json",
+            "MD5": "a9e9e66c5981fb7db98921c413c907af",
+            "path": "resources/assets/packmenu/lang/fr_fr.json"
+          }
+        },
+        {
+          "id": "supporters.txt",
+          "name": "supporters.txt",
+          "type": "File",
+          "artifact": {
+            "size": 54,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resources/assets/packmenu/texts/supporters.txt",
+            "MD5": "f20d9675e4fc9ef925d0153b686773dd",
+            "path": "resources/assets/packmenu/texts/supporters.txt"
+          }
+        },
+        {
+          "id": "accessibility.png",
+          "name": "accessibility.png",
+          "type": "File",
+          "artifact": {
+            "size": 18942,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resources/assets/packmenu/textures/gui/accessibility.png",
+            "MD5": "4142a632c2188d326594ac1a06cd16b5",
+            "path": "resources/assets/packmenu/textures/gui/accessibility.png"
+          }
+        },
+        {
+          "id": "aklizbutton.png",
+          "name": "aklizbutton.png",
+          "type": "File",
+          "artifact": {
+            "size": 3569,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resources/assets/packmenu/textures/gui/aklizbutton.png",
+            "MD5": "e203c6a00f7ebad913276f56d13c4f18",
+            "path": "resources/assets/packmenu/textures/gui/aklizbutton.png"
+          }
+        },
+        {
+          "id": "background.png",
+          "name": "background.png",
+          "type": "File",
+          "artifact": {
+            "size": 2829821,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resources/assets/packmenu/textures/gui/background.png",
+            "MD5": "5fa65f4713256f6cab061f26837f06eb",
+            "path": "resources/assets/packmenu/textures/gui/background.png"
+          }
+        },
+        {
+          "id": "demo_background.png",
+          "name": "demo_background.png",
+          "type": "File",
+          "artifact": {
+            "size": 25304,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resources/assets/packmenu/textures/gui/demo_background.png",
+            "MD5": "4dd7a7df15603675f6b8e5228fb6d4c0",
+            "path": "resources/assets/packmenu/textures/gui/demo_background.png"
+          }
+        },
+        {
+          "id": "logo.png",
+          "name": "logo.png",
+          "type": "File",
+          "artifact": {
+            "size": 15843,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resources/assets/packmenu/textures/gui/logo.png",
+            "MD5": "bb6745bd37c01d3052d48e91b50e9765",
+            "path": "resources/assets/packmenu/textures/gui/logo.png"
+          }
+        },
+        {
+          "id": "options_background.png",
+          "name": "options_background.png",
+          "type": "File",
+          "artifact": {
+            "size": 1095,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resources/assets/packmenu/textures/gui/options_background.png",
+            "MD5": "e3736a01611dbbdcaee14c72afebda0a",
+            "path": "resources/assets/packmenu/textures/gui/options_background.png"
+          }
+        },
+        {
+          "id": "reload.png",
+          "name": "reload.png",
+          "type": "File",
+          "artifact": {
+            "size": 806,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resources/assets/packmenu/textures/gui/reload.png",
+            "MD5": "0af7d359b365b61b4b5cc05f9367b2a8",
+            "path": "resources/assets/packmenu/textures/gui/reload.png"
+          }
+        },
+        {
+          "id": "widgets.png",
+          "name": "widgets.png",
+          "type": "File",
+          "artifact": {
+            "size": 22535,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resources/assets/packmenu/textures/gui/widgets.png",
+            "MD5": "14e2fa1ce2c651fe9247e1e7af44c739",
+            "path": "resources/assets/packmenu/textures/gui/widgets.png"
+          }
+        },
+        {
+          "id": "pack.mcmeta",
+          "name": "pack.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 101,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resources/pack.mcmeta",
+            "MD5": "7a534d3870a5a9ab4522ecb11bc4ada7",
+            "path": "resources/pack.mcmeta"
+          }
+        },
+        {
+          "id": "pack.png",
+          "name": "pack.png",
+          "type": "File",
+          "artifact": {
+            "size": 38219,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resources/pack.png",
+            "MD5": "3643590fa0eef7120ff0d4a3a53f1417",
+            "path": "resources/pack.png"
           }
         }
       ]
