@@ -71,7 +71,7 @@
               "type": "Library",
               "artifact": {
                 "size": 11352644,
-                "MD5": "3dd7cdd0f28b22031c28b26829dd226e",
+                "MD5": "02db51515e15ef7d2a93ce9121cca88c",
                 "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
               },
               "subModules": []
@@ -550,6 +550,32 @@
           }
         },
         {
+          "id": "vectorwing.farmersdelight:farmersdelight:1.16.5-0.6.0@jar",
+          "name": "Farmer's Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2565217,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/FarmersDelight-1.16.5-0.6.0.jar",
+            "MD5": "9614adb0fe0607d00fad43b773b5434c"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "ichttt.mods:firstaid:1.9.8@jar",
+          "name": "First Aid",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 440450,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/firstaid-1.9.8.jar",
+            "MD5": "f7000de9609c7f6835661a6931f939ee"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.jozufozu:flywheel:1.16-0.2.5@jar",
           "name": "Flywheel",
           "type": "ForgeMod",
@@ -653,11 +679,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5924305,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G7.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionaloff/OptiFine_1.16.5_HD_U_G7.jar",
             "MD5": "9d323219bdebf4e22a1d90f99f839cc0"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
@@ -752,6 +779,17 @@
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/config/iceandfire-client.toml",
             "MD5": "3ce4c63821b13976f4412e1f1df6e87e",
             "path": "config/iceandfire-client.toml"
+          }
+        },
+        {
+          "id": "packmenu.cfg",
+          "name": "packmenu.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 4178,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/config/packmenu/packmenu.cfg",
+            "MD5": "a2c95fd7dd9ac3080c1d6d2aa17d0e70",
+            "path": "config/packmenu/packmenu.cfg"
           }
         },
         {
