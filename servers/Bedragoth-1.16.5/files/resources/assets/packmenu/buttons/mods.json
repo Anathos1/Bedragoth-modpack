@@ -1,0 +1,10 @@
+{
+	"x": -50,
+	"y": -80,
+	"width": 100,
+	"height": 20,
+	"texture": "packmenu:textures/gui/widgets.png",
+	"langKey": "fml.menu.mods",
+	"action": "OPEN_GUI",
+	"data": "MODS"
+}
