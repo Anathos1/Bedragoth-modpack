@@ -16,12 +16,12 @@
       "address": "135.125.30.66:25569",
       "minecraftVersion": "1.16.5",
       "discord": {
-        "shortId": "M?di?val-Dark Fantasy",
+        "shortId": "Medieval-Dark Fantasy",
         "largeImageText": "Serveur Roleplay Bedragoth",
         "largeImageKey": "bedra"
       },
       "mainServer": true,
-      "autoconnect": true,
+      "autoconnect": false,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.16.5-36.2.39",
