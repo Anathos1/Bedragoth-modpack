@@ -71,7 +71,7 @@
               "type": "Library",
               "artifact": {
                 "size": 11352644,
-                "MD5": "6fc40169a7c2ecd0f054dcd0adfd7004",
+                "MD5": "682edcab7cc363e3b5a6eb15763e438e",
                 "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
               },
               "subModules": []
@@ -439,6 +439,19 @@
           }
         },
         {
+          "id": "mod.beethoven92:betterendforge:1.16.5-1.6.3@jar",
+          "name": "BetterEnd Forge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 81199992,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/betterendforge-1.16.5-1.6.3.jar",
+            "MD5": "3ba6c4744fb853b099e838b8e90adc15"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.eerussianguy:betterfoliage:1.2.0@jar",
           "name": "Better Foliage",
           "type": "ForgeMod",
@@ -656,6 +669,19 @@
             "size": 595126,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/locks-1.16.5-3.0.3.jar",
             "MD5": "9bfd12da806ee085e726b826cfc2ca74"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.lycanitesmobs:lycanitesmobs:1.16.5-2.3.3.3@jar",
+          "name": "Lycanites Mobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 99709385,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/lycanitesmobs-1.16.5-2.3.3.3.jar",
+            "MD5": "1b54764ac7b205230b515407b3cbb50c"
           },
           "required": {
             "value": false
