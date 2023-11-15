@@ -23,6 +23,7 @@
       "mainServer": true,
       "autoconnect": false,
       "modules": [
+
         {
           "id": "net.minecraftforge:forge:1.16.5-36.2.39",
           "name": "Minecraft Forge (base jar)",
@@ -71,7 +72,7 @@
               "type": "Library",
               "artifact": {
                 "size": 11352644,
-                "MD5": "7b593fd09c9f0c18b193f1c9ead856ef",
+                "MD5": "9693a79f5541a99e383f05bca0f11925",
                 "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
               },
               "subModules": []
@@ -766,6 +767,19 @@
           }
         },
         {
+          "id": "dev.gigaherz:toolbelt:1.16.3@jar",
+          "name": "Tool Belt",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 242148,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/ToolBelt-1.16.5-1.16.3.jar",
+            "MD5": "06dd94df2d1e8d4ce1ee7e3c6149b49e"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.fcoin:victorymod:2.0@jar",
           "name": "Victory Mod",
           "type": "ForgeMod",
@@ -981,6 +995,17 @@
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/config/iceandfire-client.toml",
             "MD5": "3ce4c63821b13976f4412e1f1df6e87e",
             "path": "config/iceandfire-client.toml"
+          }
+        },
+        {
+          "id": "toolbelt-client.toml",
+          "name": "toolbelt-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 871,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/config/toolbelt-client.toml",
+            "MD5": "3752454adac6f5d6476bd1500ad9c4e5",
+            "path": "config/toolbelt-client.toml"
           }
         },
         {
