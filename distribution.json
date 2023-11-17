@@ -71,7 +71,7 @@
               "type": "Library",
               "artifact": {
                 "size": 11352644,
-                "MD5": "39f2800d75d81ce1923de7fbec3df0ab",
+                "MD5": "21a9d330af9289ee594508669063effe",
                 "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
               },
               "subModules": []
@@ -1199,14 +1199,14 @@
           }
         },
         {
-          "id": "Weapon_and_Armor_Custom_V4.zip",
-          "name": "Weapon_and_Armor_Custom_V4.zip",
+          "id": "Weapon_and_Armor_Custom_V5.zip",
+          "name": "Weapon_and_Armor_Custom_V5.zip",
           "type": "File",
           "artifact": {
-            "size": 3750712,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resourcepacks/Weapon_and_Armor_Custom_V4.zip",
-            "MD5": "ec807a74167fe7bb35ab8ec9f849485d",
-            "path": "resourcepacks/Weapon_and_Armor_Custom_V4.zip"
+            "size": 10423749,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resourcepacks/Weapon_and_Armor_Custom_V5.zip",
+            "MD5": "092267ca946f8a4dd52dcbead90a3a80",
+            "path": "resourcepacks/Weapon_and_Armor_Custom_V5.zip"
           }
         },
         {
@@ -1225,9 +1225,9 @@
           "name": "nongko's_Fantasy_Weapons_v1.8.zip",
           "type": "File",
           "artifact": {
-            "size": 1856309,
+            "size": 1822885,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/files/resourcepacks/nongko%27s_Fantasy_Weapons_v1.8.zip",
-            "MD5": "77515e0f2145a7fa3e88d1615cf445dc",
+            "MD5": "30fc6230a8e4b38acadbdf9165703d12",
             "path": "resourcepacks/nongko's_Fantasy_Weapons_v1.8.zip"
           }
         },
