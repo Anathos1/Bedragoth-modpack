@@ -2,25 +2,25 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "813603229149560832",
-    "smallImageText": "(1.16.5)",
-    "smallImageKey": "bedra"
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
   "servers": [
     {
       "id": "Bedragoth-1.16.5",
       "name": "Bedragoth (Minecraft 1.16.5)",
       "description": "Bedragoth Running Minecraft 1.16.5 (Forge v36.2.39)",
-      "icon": "https://raw.githubusercontent.com/Anathos77/Test/master/icon.png",
+      "icon": null,
       "version": "1.0.0",
-      "address": "91.197.6.122:25584",
+      "address": "localhost:25565",
       "minecraftVersion": "1.16.5",
       "discord": {
-        "shortId": "Dark Fantasy",
-        "largeImageText": "Serveur Roleplay Bedragoth",
-        "largeImageKey": "bedra"
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": true,
+      "mainServer": false,
       "autoconnect": false,
       "modules": [
         {
@@ -71,7 +71,7 @@
               "type": "Library",
               "artifact": {
                 "size": 11352644,
-                "MD5": "21a9d330af9289ee594508669063effe",
+                "MD5": "14ee9999b23b77e72ec7f4a8aceeae7d",
                 "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
               },
               "subModules": []
@@ -818,13 +818,13 @@
           }
         },
         {
-          "id": "com.minecraftserverzone:weaponmaster:3.0.3@jar",
+          "id": "com.minecraftserverzone:weaponmaster:3.0.5@jar",
           "name": "YDM's Weapon Master",
           "type": "ForgeMod",
           "artifact": {
-            "size": 171239,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/weaponmaster-multi-forge-1.16.5-3.0.3.jar",
-            "MD5": "57e46cdb478a44f43aed7e4909d26787"
+            "size": 171275,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/weaponmaster-multi-forge-1.16.5-3.0.5.jar",
+            "MD5": "7564ca287060c33a23470cd4964e2798"
           },
           "required": {
             "value": false
