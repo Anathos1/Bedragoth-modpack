@@ -71,7 +71,7 @@
               "type": "Library",
               "artifact": {
                 "size": 11352644,
-                "MD5": "a41c95b81bbada090ba9c00a4e0c8c74",
+                "MD5": "c97ebd2df1859c353e586645009755ef",
                 "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraft/client/1.16.5-20210115.111550/client-1.16.5-20210115.111550-srg.jar"
               },
               "subModules": []
@@ -603,13 +603,13 @@
           }
         },
         {
-          "id": "software.bernie.example:geckolib3:3.0.106@jar",
+          "id": "software.bernie.example:geckolib3:3.0.92@jar",
           "name": "GeckoLib",
           "type": "ForgeMod",
           "artifact": {
-            "size": 3559283,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/required/geckolib-forge-1.16.5-3.0.106.jar",
-            "MD5": "6f4524eea52474c58280c2b0ac06e1e0"
+            "size": 3531298,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/required/geckolib-forge-1.16.5-3.0.92.jar",
+            "MD5": "fda53c5c9a0a47b76390563ad0d05580"
           }
         },
         {
@@ -773,6 +773,19 @@
             "size": 1485216,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/sophisticatedbackpacks-1.16.5-3.15.18.698.jar",
             "MD5": "9ce5024085b1337c4c0b659aa657090c"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.alaharranhonor:swem:1.16.5-0.5.3.0@jar",
+          "name": "Star Worm Equestrian Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9981074,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.16.5/forgemods/optionalon/swem-1.16.5-0.5.3.0.jar",
+            "MD5": "45960590259767adeda76c208b4b205d"
           },
           "required": {
             "value": false
