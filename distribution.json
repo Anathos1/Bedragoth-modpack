@@ -13,7 +13,7 @@
       "description": "Bedragoth Running Minecraft 1.18.2 (Forge v40.2.17)",
       "icon": "https://raw.githubusercontent.com/Anathos77/Test/master/icon.png",
       "version": "1.0.0",
-      "address": "91.197.6.122:25584",
+      "address": "91.197.6.164:25623",
       "minecraftVersion": "1.18.2",
       "discord": {
         "shortId": "Dark Fantasy",
@@ -679,6 +679,32 @@
             "size": 21531214,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/iceandfire-2.1.13-1.18.2-beta-3.jar",
             "MD5": "b36ba9a566788f2602f529de4d2a0963"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "immersive_melodies:immersive_melodies:0.1.0+1.18.2@jar",
+          "name": "Immersive Melodies",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2425156,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/immersive_melodies-0.1.0+1.18.2-forge.jar",
+            "MD5": "975629096c1018607d6400b99dd5fca5"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:incendium:5.0.8@jar",
+          "name": "Incendium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5039557,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/Incendium_1.18.2_v5.0.8.jar",
+            "MD5": "43fece2a0ff324b5632f5719d323b111"
           },
           "required": {
             "value": false
