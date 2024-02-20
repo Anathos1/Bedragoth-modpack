@@ -3,7 +3,7 @@
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "813603229149560832",
-    "smallImageText": "(1.16.5)",
+    "smallImageText": "(1.18.2)",
     "smallImageKey": "bedra"
   },
   "servers": [
@@ -520,12 +520,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 60902,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionaloff/BetterThirdPerson-Forge-1.18.2-1.9.0.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/BetterThirdPerson-Forge-1.18.2-1.9.0.jar",
             "MD5": "3f25bc74ce3fa53082b78fb6d72ce46d"
           },
           "required": {
-            "value": false,
-            "def": false
+            "value": false
           }
         },
         {
@@ -650,6 +649,19 @@
           }
         },
         {
+          "id": "malte0811.ferritecore:ferritecore:4.2.2@jar",
+          "name": "Ferrite Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 116626,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/ferritecore-4.2.2-forge.jar",
+            "MD5": "ea8c0bfc697a73b0d1886e43a1a5a282"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "software.bernie.example:geckolib3:3.0.57@jar",
           "name": "GeckoLib",
           "type": "ForgeMod",
@@ -686,13 +698,26 @@
           }
         },
         {
-          "id": "com.legacy:lock_and_key:1.1.0@jar",
-          "name": "Lock & Key",
+          "id": "me.steinborn:lazydfu:0.1.3@jar",
+          "name": "LazyDFU",
           "type": "ForgeMod",
           "artifact": {
-            "size": 16254,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/lock_and_key-1.18.2-1.1.0.jar",
-            "MD5": "4058cb3ace7f38bde3fadb92f0f877dc"
+            "size": 15445,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/lazydfu-1.0-1.18+.jar",
+            "MD5": "f90813b92c422c9f159c5e7d89167233"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "gg.moonflower.locksmith.core:locksmith:1.1.1@jar",
+          "name": "Locksmith",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 365363,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/locksmith-forge-1.1.1+1.18.2.jar",
+            "MD5": "874bd09ce52859de0daaeb5e50017c4a"
           },
           "required": {
             "value": false
@@ -704,12 +729,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 759170,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionaloff/modernfix-forge-5.13.0+mc1.18.2.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/modernfix-forge-5.13.0+mc1.18.2.jar",
             "MD5": "01ea7992dc780a6a77174360a63c8927"
           },
           "required": {
-            "value": false,
-            "def": false
+            "value": false
           }
         },
         {
@@ -733,6 +757,19 @@
             "size": 13595545,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/mowziesmobs-1.5.32.jar",
             "MD5": "eab504676bd90ec934f4053a8808faeb"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.chaosthedude:notes:1.18.2-1.2.4@jar",
+          "name": "Notes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 62081,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/Notes-1.18.2-1.2.4.jar",
+            "MD5": "0eb64e3ed5f3edfb317809f95cbf56b1"
           },
           "required": {
             "value": false
@@ -779,6 +816,19 @@
           }
         },
         {
+          "id": "gg.moonflower.pollen.core:pollen:1.6.1@jar",
+          "name": "Pollen",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1432061,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/pollen-forge-1.6.1+1.18.2.jar",
+            "MD5": "8e1cd4e1ce1d8a31a8bcf92995b55bf0"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "net.mcreator:relda:1.0.0@jar",
           "name": "Relda",
           "type": "ForgeMod",
@@ -799,6 +849,32 @@
             "size": 2038875,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/smallships-forge-1.18.2-2.0.0-a2.3.1.jar",
             "MD5": "28fbb6fe5b4b318063ffe32809508889"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedbackpacks:1.18.2-3.20.1.1011@jar",
+          "name": "Sophisticated Backpacks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 837255,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/sophisticatedbackpacks-1.18.2-3.20.1.1011.jar",
+            "MD5": "832f51bdebd329334b7626a7a15b7f93"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedcore:1.18.2-0.6.2.551@jar",
+          "name": "Sophisticated Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1068829,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/sophisticatedcore-1.18.2-0.6.2.551.jar",
+            "MD5": "3f8af26e52e4ab9ca89bb34e9dae5be1"
           },
           "required": {
             "value": false
@@ -893,6 +969,236 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "generated.library:OptiFine_1.18.2_HD_U_H9_MOD:0.0.0@jar",
+          "name": "OptiFine_1.18.2_HD_U_H9_MOD",
+          "type": "Library",
+          "artifact": {
+            "size": 6230778,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/libraries/OptiFine_1.18.2_HD_U_H9_MOD.jar",
+            "MD5": "a1d898e291e714b8a8b800ae6a3d0c5d"
+          }
+        },
+        {
+          "id": "iceandfire-client.toml",
+          "name": "iceandfire-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 321,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/config/iceandfire-client.toml",
+            "MD5": "3ce4c63821b13976f4412e1f1df6e87e",
+            "path": "config/iceandfire-client.toml"
+          }
+        },
+        {
+          "id": "toolbelt-client.toml",
+          "name": "toolbelt-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 871,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/config/toolbelt-client.toml",
+            "MD5": "3752454adac6f5d6476bd1500ad9c4e5",
+            "path": "config/toolbelt-client.toml"
+          }
+        },
+        {
+          "id": "command_block.json",
+          "name": "command_block.json",
+          "type": "File",
+          "artifact": {
+            "size": 482,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Arcanic%20Waystone%20Ressourcepack/assets/minecraft/models/item/command_block.json",
+            "MD5": "a3fb08a8c1a1bc53c6f599177269db8b",
+            "path": "resourcepacks/Arcanic Waystone Ressourcepack/assets/minecraft/models/item/command_block.json"
+          }
+        },
+        {
+          "id": "ghast_spawn_egg.json",
+          "name": "ghast_spawn_egg.json",
+          "type": "File",
+          "artifact": {
+            "size": 241,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Arcanic%20Waystone%20Ressourcepack/assets/minecraft/models/item/ghast_spawn_egg.json",
+            "MD5": "8c05b0db0df6435e90c8dda2c26a335f",
+            "path": "resourcepacks/Arcanic Waystone Ressourcepack/assets/minecraft/models/item/ghast_spawn_egg.json"
+          }
+        },
+        {
+          "id": "rune.json",
+          "name": "rune.json",
+          "type": "File",
+          "artifact": {
+            "size": 90,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Arcanic%20Waystone%20Ressourcepack/assets/rune/models/rune.json",
+            "MD5": "26737fbc008ad3a9dd73db4cf3953497",
+            "path": "resourcepacks/Arcanic Waystone Ressourcepack/assets/rune/models/rune.json"
+          }
+        },
+        {
+          "id": "rune.png",
+          "name": "rune.png",
+          "type": "File",
+          "artifact": {
+            "size": 1426,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Arcanic%20Waystone%20Ressourcepack/assets/rune/textures/rune.png",
+            "MD5": "fcab8b89b0446bff6e5507a7e5175695",
+            "path": "resourcepacks/Arcanic Waystone Ressourcepack/assets/rune/textures/rune.png"
+          }
+        },
+        {
+          "id": "Copyright.txt",
+          "name": "Copyright.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1301,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Arcanic%20Waystone%20Ressourcepack/Copyright.txt",
+            "MD5": "8bec9b134e31a9756cb63915f89694ff",
+            "path": "resourcepacks/Arcanic Waystone Ressourcepack/Copyright.txt"
+          }
+        },
+        {
+          "id": "Credits.txt",
+          "name": "Credits.txt",
+          "type": "File",
+          "artifact": {
+            "size": 509,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Arcanic%20Waystone%20Ressourcepack/Credits.txt",
+            "MD5": "96cfe8c32023e9ade4a985b4fdd4693f",
+            "path": "resourcepacks/Arcanic Waystone Ressourcepack/Credits.txt"
+          }
+        },
+        {
+          "id": "pack.mcmeta",
+          "name": "pack.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 104,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Arcanic%20Waystone%20Ressourcepack/pack.mcmeta",
+            "MD5": "e27eac09a9160ec43ef3899d8eadd5f0",
+            "path": "resourcepacks/Arcanic Waystone Ressourcepack/pack.mcmeta"
+          }
+        },
+        {
+          "id": "pack.png",
+          "name": "pack.png",
+          "type": "File",
+          "artifact": {
+            "size": 2305,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Arcanic%20Waystone%20Ressourcepack/pack.png",
+            "MD5": "45822f059f1889b88305fbe7a8bb3a7f",
+            "path": "resourcepacks/Arcanic Waystone Ressourcepack/pack.png"
+          }
+        },
+        {
+          "id": "Arme.zip",
+          "name": "Arme.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3100766,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Arme.zip",
+            "MD5": "a03d3c5e0b34369e144961f51cfd9462",
+            "path": "resourcepacks/Arme.zip"
+          }
+        },
+        {
+          "id": "Chuck RP V5.4.zip",
+          "name": "Chuck RP V5.4.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1085070,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Chuck%20RP%20V5.4.zip",
+            "MD5": "07e5a2571658ceeda62528904a0e0132",
+            "path": "resourcepacks/Chuck RP V5.4.zip"
+          }
+        },
+        {
+          "id": "CR - Waystones v1.zip",
+          "name": "CR - Waystones v1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 724492,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/CR%20-%20Waystones%20v1.zip",
+            "MD5": "e2181512cace2fa22e1f0f1738d5e823",
+            "path": "resourcepacks/CR - Waystones v1.zip"
+          }
+        },
+        {
+          "id": "CR-Create1.18v2.zip",
+          "name": "CR-Create1.18v2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 7826201,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/CR-Create1.18v2.zip",
+            "MD5": "03336580acc32674b1f4b7bcd717488d",
+            "path": "resourcepacks/CR-Create1.18v2.zip"
+          }
+        },
+        {
+          "id": "CRRP-1.18.2-7.0.31.zip",
+          "name": "CRRP-1.18.2-7.0.31.zip",
+          "type": "File",
+          "artifact": {
+            "size": 101536095,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/CRRP-1.18.2-7.0.31.zip",
+            "MD5": "ebc399dda32f99232927ccb01d45f4b8",
+            "path": "resourcepacks/CRRP-1.18.2-7.0.31.zip"
+          }
+        },
+        {
+          "id": "curiosCRv2.zip",
+          "name": "curiosCRv2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 37299,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/curiosCRv2.zip",
+            "MD5": "d3ed4d84dbe301a5a3f73f3df90a64ab",
+            "path": "resourcepacks/curiosCRv2.zip"
+          }
+        },
+        {
+          "id": "EF_anmation_1.18_v1.1.zip",
+          "name": "EF_anmation_1.18_v1.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1862693,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/EF_anmation_1.18_v1.1.zip",
+            "MD5": "c05e27f475da332ac33ec8a40e3e52a5",
+            "path": "resourcepacks/EF_anmation_1.18_v1.1.zip"
+          }
+        },
+        {
+          "id": "farmers+delightCR.zip",
+          "name": "farmers+delightCR.zip",
+          "type": "File",
+          "artifact": {
+            "size": 784893,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/farmers+delightCR.zip",
+            "MD5": "d221cd7dda21326b16db98688e0440ff",
+            "path": "resourcepacks/farmers+delightCR.zip"
+          }
+        },
+        {
+          "id": "nongko's_Fantasy_Weapons_v1.13.zip",
+          "name": "nongko's_Fantasy_Weapons_v1.13.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1576424,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/nongko's_Fantasy_Weapons_v1.13.zip",
+            "MD5": "66d9be3da0225a76ec3767ee6f6a9e4d",
+            "path": "resourcepacks/nongko's_Fantasy_Weapons_v1.13.zip"
+          }
+        },
+        {
+          "id": "Weapon_and_Armor_Custom_V5.zip",
+          "name": "Weapon_and_Armor_Custom_V5.zip",
+          "type": "File",
+          "artifact": {
+            "size": 10423749,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Weapon_and_Armor_Custom_V5.zip",
+            "MD5": "092267ca946f8a4dd52dcbead90a3a80",
+            "path": "resourcepacks/Weapon_and_Armor_Custom_V5.zip"
           }
         }
       ]
