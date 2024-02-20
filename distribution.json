@@ -2,23 +2,23 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "813603229149560832",
+    "smallImageText": "(1.16.5)",
+    "smallImageKey": "bedra"
   },
   "servers": [
     {
       "id": "Bedragoth-1.18.2",
       "name": "Bedragoth (Minecraft 1.18.2)",
       "description": "Bedragoth Running Minecraft 1.18.2 (Forge v40.2.17)",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Anathos77/Test/master/icon.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "91.197.6.122:25584",
       "minecraftVersion": "1.18.2",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "Dark Fantasy",
+        "largeImageText": "Serveur Roleplay Bedragoth",
+        "largeImageKey": "bedra"
       },
       "mainServer": false,
       "autoconnect": false,
