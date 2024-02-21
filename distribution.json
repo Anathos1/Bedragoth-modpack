@@ -528,6 +528,19 @@
           }
         },
         {
+          "id": "tschipp.callablehorses:callablehorses:1.2.2.5@jar",
+          "name": "Callable Horses",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 137583,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/callablehorses-1.18.2-1.2.2.5.jar",
+            "MD5": "53eb1759a542a384b7e8c793f787e9e7"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.github.alexthe666:citadel:1.11.3@jar",
           "name": "Citadel",
           "type": "ForgeMod",
