@@ -20,7 +20,7 @@
         "largeImageText": "Serveur Roleplay Bedragoth",
         "largeImageKey": "bedra"
       },
-      "mainServer": false,
+      "mainServer": true,
       "autoconnect": false,
       "modules": [
         {
