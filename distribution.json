@@ -13,10 +13,10 @@
       "description": "Bedragoth Running Minecraft 1.18.2 (Forge v40.2.17)",
       "icon": "https://raw.githubusercontent.com/Anathos77/Test/master/icon.png",
       "version": "1.0.0",
-      "address": "91.197.6.164:25623",
+      "address": "bedragothrp.mine.fun",
       "minecraftVersion": "1.18.2",
       "discord": {
-        "shortId": "Dark Fantasy",
+        "shortId": "Medieval Fantasy",
         "largeImageText": "Serveur Roleplay Bedragoth",
         "largeImageKey": "bedra"
       },
