@@ -13,7 +13,7 @@
       "description": "Bedragoth Running Minecraft 1.18.2 (Forge v40.2.17)",
       "icon": "https://raw.githubusercontent.com/Anathos77/Test/master/icon.png",
       "version": "1.0.0",
-      "address": "91.197.6.164:25565",
+      "address": "91.197.6.164:25623",
       "minecraftVersion": "1.18.2",
       "discord": {
         "shortId": "Medieval Fantasy",
