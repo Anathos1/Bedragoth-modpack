@@ -1,0 +1,1246 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "813603229149560832",
+    "smallImageText": "(1.18.2)",
+    "smallImageKey": "bedra"
+  },
+  "servers": [
+    {
+      "id": "Bedragoth-1.18.2",
+      "name": "Bedragoth (Minecraft 1.18.2)",
+      "description": "Bedragoth Running Minecraft 1.18.2 (Forge v40.2.17)",
+      "icon": "https://cdn.discordapp.com/attachments/762156060446162994/1209967606027788328/icon.png?ex=65e8d925&is=65d66425&hm=a165a906ddecfefd891e3f2fd223a1875a735f8469fc0d225d43746a3b686b38&",
+      "version": "1.0.0",
+      "address": "91.197.6.50:25573",
+      "minecraftVersion": "1.18.2",
+      "discord": {
+        "shortId": "Medieval Fantasy",
+        "largeImageText": "Serveur Roleplay Bedragoth",
+        "largeImageKey": "bedra"
+      },
+      "mainServer": true,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.minecraftforge:lowcodelanguage:1.18.2-40.2.17",
+          "name": "Minecraft Forge (lowcodelanguage)",
+          "type": "ForgeHosted",
+          "classpath": true,
+          "artifact": {
+            "size": 7381,
+            "MD5": "ede96783ae873de2e6551e52b5a3647b",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraftforge/lowcodelanguage/1.18.2-40.2.17/lowcodelanguage-1.18.2-40.2.17.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.18.2-40.2.17",
+              "name": "Minecraft Forge (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 15551,
+                "MD5": "af153aed51c5498296e0afb9a5c562d4",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/versions/1.18.2-forge-40.2.17/1.18.2-forge-40.2.17.json"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlcore:1.18.2-40.2.17",
+              "name": "Minecraft Forge (fmlcore)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 111968,
+                "MD5": "f9fcfca82afdcdb8c596f7b3673e0dff",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraftforge/fmlcore/1.18.2-40.2.17/fmlcore-1.18.2-40.2.17.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:javafmllanguage:1.18.2-40.2.17",
+              "name": "Minecraft Forge (javafmllanguage)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 16291,
+                "MD5": "301c3934a464c24ab647d4a2bce071d2",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraftforge/javafmllanguage/1.18.2-40.2.17/javafmllanguage-1.18.2-40.2.17.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:mclanguage:1.18.2-40.2.17",
+              "name": "Minecraft Forge (mclanguage)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 4987,
+                "MD5": "b3f7bb3a6715aae0d7ab0e253046e7ff",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraftforge/mclanguage/1.18.2-40.2.17/mclanguage-1.18.2-40.2.17.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:forge:1.18.2-40.2.17:universal",
+              "name": "Minecraft Forge (universal jar)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 2533111,
+                "MD5": "c5a3eca95c773fdf68088d5338905db8",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraftforge/forge/1.18.2-40.2.17/forge-1.18.2-40.2.17-universal.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:forge:1.18.2-40.2.17:client",
+              "name": "Minecraft Forge (client jar)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 4367198,
+                "MD5": "703656e85bb6af1eb5557e0b65bb7468",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraftforge/forge/1.18.2-40.2.17/forge-1.18.2-40.2.17-client.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.18.2-20220404.173914:srg",
+              "name": "Minecraft Forge (client srg)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 13796791,
+                "MD5": "49d0ce9681f0ffd3c5a177f6ad45c80b",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-srg.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.18.2-20220404.173914:slim",
+              "name": "Minecraft Forge (client slim)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 10909711,
+                "MD5": "62184203a1e66c6c72b415b7d6e64c0d",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-slim.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.18.2-20220404.173914:extra",
+              "name": "Minecraft Forge (client extra)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 9349972,
+                "MD5": "5de62b239289ed8e596b386766b87b41",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraft/client/1.18.2-20220404.173914/client-1.18.2-20220404.173914-extra.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "cpw.mods:securejarhandler:1.0.8",
+              "name": "Minecraft Forge (securejarhandler)",
+              "type": "Library",
+              "artifact": {
+                "size": 85028,
+                "MD5": "102e2b8d94eec8aca0da835d2d3a359e",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/cpw/mods/securejarhandler/1.0.8/securejarhandler-1.0.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.5",
+              "name": "Minecraft Forge (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 121863,
+                "MD5": "29721ee4b5eacf0a34b204c345c8bc69",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/org/ow2/asm/asm/9.5/asm-9.5.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.5",
+              "name": "Minecraft Forge (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 72209,
+                "MD5": "7d1fce986192f71722b19754e4cb9e61",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.5",
+              "name": "Minecraft Forge (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51944,
+                "MD5": "44755681b7d6fa7143afbb438e55c20c",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.5",
+              "name": "Minecraft Forge (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 91076,
+                "MD5": "ad0016249fb68bb9196babefd47b80dc",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.5",
+              "name": "Minecraft Forge (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 33978,
+                "MD5": "4df0adafc78ebba404d4037987d36b61",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:accesstransformers:8.0.4",
+              "name": "Minecraft Forge (accesstransformers)",
+              "type": "Library",
+              "artifact": {
+                "size": 77756,
+                "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+              }
+            },
+            {
+              "id": "org.antlr:antlr4-runtime:4.9.1",
+              "name": "Minecraft Forge (antlr4-runtime)",
+              "type": "Library",
+              "artifact": {
+                "size": 337868,
+                "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:eventbus:5.0.3",
+              "name": "Minecraft Forge (eventbus)",
+              "type": "Library",
+              "artifact": {
+                "size": 42838,
+                "MD5": "c8b735cdfe9975a569626d72ad40377f",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraftforge/eventbus/5.0.3/eventbus-5.0.3.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:forgespi:4.0.15-4.x",
+              "name": "Minecraft Forge (forgespi)",
+              "type": "Library",
+              "artifact": {
+                "size": 22072,
+                "MD5": "8509a972b27c9f037d55c61e16fc051f",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraftforge/forgespi/4.0.15-4.x/forgespi-4.0.15-4.x.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:coremods:5.0.1",
+              "name": "Minecraft Forge (coremods)",
+              "type": "Library",
+              "artifact": {
+                "size": 24199,
+                "MD5": "8c590051c5d65e098ca7c2e3ddf803a8",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar"
+              }
+            },
+            {
+              "id": "cpw.mods:modlauncher:9.1.3",
+              "name": "Minecraft Forge (modlauncher)",
+              "type": "Library",
+              "artifact": {
+                "size": 129301,
+                "MD5": "dca70519c3e53ac018d6f50c6f90cd38",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/cpw/mods/modlauncher/9.1.3/modlauncher-9.1.3.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:unsafe:0.2.0",
+              "name": "Minecraft Forge (unsafe)",
+              "type": "Library",
+              "artifact": {
+                "size": 2834,
+                "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+              }
+            },
+            {
+              "id": "com.electronwill.night-config:core:3.6.4",
+              "name": "Minecraft Forge (core)",
+              "type": "Library",
+              "artifact": {
+                "size": 199834,
+                "MD5": "d83ab07267e402131fb93d899a57f5cd",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+              }
+            },
+            {
+              "id": "com.electronwill.night-config:toml:3.6.4",
+              "name": "Minecraft Forge (toml)",
+              "type": "Library",
+              "artifact": {
+                "size": 31816,
+                "MD5": "bc95d0709fff2164b01fd09fbc988be8",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+              }
+            },
+            {
+              "id": "org.apache.maven:maven-artifact:3.6.3",
+              "name": "Minecraft Forge (maven-artifact)",
+              "type": "Library",
+              "artifact": {
+                "size": 57824,
+                "MD5": "b83c1943a0783f3f81d4cd4c83c363e1",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar"
+              }
+            },
+            {
+              "id": "net.jodah:typetools:0.8.3",
+              "name": "Minecraft Forge (typetools)",
+              "type": "Library",
+              "artifact": {
+                "size": 15425,
+                "MD5": "ee4596e1413cc1a5e080c971d6064753",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
+              }
+            },
+            {
+              "id": "net.minecrell:terminalconsoleappender:1.2.0",
+              "name": "Minecraft Forge (terminalconsoleappender)",
+              "type": "Library",
+              "artifact": {
+                "size": 15977,
+                "MD5": "679363fa893293791e55a21f81342f87",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline-reader:3.12.1",
+              "name": "Minecraft Forge (jline-reader)",
+              "type": "Library",
+              "artifact": {
+                "size": 150765,
+                "MD5": "a2e7b012cd9802f83321187409174a94",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline-terminal:3.12.1",
+              "name": "Minecraft Forge (jline-terminal)",
+              "type": "Library",
+              "artifact": {
+                "size": 211712,
+                "MD5": "3c52be5ab5e3847be6e62269de924cb0",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+              }
+            },
+            {
+              "id": "org.spongepowered:mixin:0.8.5",
+              "name": "Minecraft Forge (mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1089277,
+                "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+              }
+            },
+            {
+              "id": "org.openjdk.nashorn:nashorn-core:15.3",
+              "name": "Minecraft Forge (nashorn-core)",
+              "type": "Library",
+              "artifact": {
+                "size": 2167288,
+                "MD5": "91e98c20afa1090c344229ce28b4c53f",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarSelector:0.3.19",
+              "name": "Minecraft Forge (JarJarSelector)",
+              "type": "Library",
+              "artifact": {
+                "size": 17374,
+                "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarMetadata:0.3.19",
+              "name": "Minecraft Forge (JarJarMetadata)",
+              "type": "Library",
+              "artifact": {
+                "size": 15895,
+                "MD5": "9633546d299d4282ca68d10582be1c8f",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
+              }
+            },
+            {
+              "id": "cpw.mods:bootstraplauncher:1.0.0",
+              "name": "Minecraft Forge (bootstraplauncher)",
+              "type": "Library",
+              "artifact": {
+                "size": 7828,
+                "MD5": "1632575563bb6ead2ae3a087945f18be",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/cpw/mods/bootstraplauncher/1.0.0/bootstraplauncher-1.0.0.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarFileSystems:0.3.19",
+              "name": "Minecraft Forge (JarJarFileSystems)",
+              "type": "Library",
+              "artifact": {
+                "size": 32195,
+                "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlloader:1.18.2-40.2.17",
+              "name": "Minecraft Forge (fmlloader)",
+              "type": "Library",
+              "artifact": {
+                "size": 257597,
+                "MD5": "fa56657e636c4b268c05b21807b623fc",
+                "url": "https://raw.githubusercontent.com/Anathos77/Test/master/repo/lib/net/minecraftforge/fmlloader/1.18.2-40.2.17/fmlloader-1.18.2-40.2.17.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "ru.magistu:siegemachines:0.0.1-1.18.2@jar",
+          "name": "Medieval Siege Machines",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1848220,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/[1.18.2]-Medieval-Siege-Machines-v1.17.jar",
+            "MD5": "5f6cb8cb00e8423eed35198c29b35d9e"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.github.alexthe666:alexsmobs:1.18.6@jar",
+          "name": "Alex's Mobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 22436427,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/alexsmobs-1.18.6.jar",
+            "MD5": "055b233750ba11d528e4c23a1ad6d179"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "dev.architectury:architectury:4.11.93@jar",
+          "name": "Architectury",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 549226,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/required/architectury-4.11.93-forge.jar",
+            "MD5": "f3e897bea30252c717004e1a3439cf6b"
+          }
+        },
+        {
+          "id": "de.mennomax:astikorcarts:1.1.7@jar",
+          "name": "AstikorCarts",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 259190,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/astikorcarts-1.18.2_mc-pig_crashfix-1.1.7.jar",
+            "MD5": "60e5ff0e06769f1e8e4a51570bd1b117"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.lothrazar:autorun:1.18-1.1.0@jar",
+          "name": "Auto-Sprint",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 16354,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/autorun-1.18-1.1.0.jar",
+            "MD5": "523b179545b113e3403d0b4ac6823337"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.blay09.mods:balm:3.2.6@jar",
+          "name": "Balm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 622515,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/balm-3.2.6.jar",
+            "MD5": "2c88b15b950317917fe64980267d579a"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "io.github.kosmx:bendylib:2.1.1@jar",
+          "name": "Bendy lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 36623,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/bendy-lib-forge-2.1.1.jar",
+            "MD5": "58989d5ae5bec172a564f704d1a254a3"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "dev.itsmeow:betteranimalsplus:1.18.2-11.0.10@jar",
+          "name": "Better Animals Plus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2164141,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/betteranimalsplus-1.18.2-11.0.10-forge.jar",
+            "MD5": "1ac2983f2e1cdc4552bbcffb29506ecc"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.eerussianguy:betterfoliage:3.1.4@jar",
+          "name": "Better Foliage",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 335450,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/betterfoliage-3.1.4.jar",
+            "MD5": "2c32e85272cac95dbc7c8942289a0bb4"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "io.socol:betterthirdperson:1.9.0@jar",
+          "name": "Better Third Person",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 60902,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/BetterThirdPerson-Forge-1.18.2-1.9.0.jar",
+            "MD5": "3f25bc74ce3fa53082b78fb6d72ce46d"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "tschipp.callablehorses:callablehorses:1.2.2.5@jar",
+          "name": "Callable Horses",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 137583,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/callablehorses-1.18.2-1.2.2.5.jar",
+            "MD5": "53eb1759a542a384b7e8c793f787e9e7"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.github.alexthe666:citadel:1.11.3@jar",
+          "name": "Citadel",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 503137,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/required/citadel-1.11.3-1.18.2.jar",
+            "MD5": "fffef0755c3ac225d55b91357f2d9823"
+          }
+        },
+        {
+          "id": "com.conquestreforged.arms:conq_medieval_arms:1.0@jar",
+          "name": "Conquest's Medieval Arms",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1601478,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/conq_medieval_arms-1.0.jar",
+            "MD5": "20c3b9526b6e0bb2da3ef74c8630e1c0"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.conquestreforged:conquest:7.0.4@jar",
+          "name": "ConquestReforged",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 96795094,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/required/ConquestReforged-mc1.18.2-7.0.4.jar",
+            "MD5": "f9863a551c0f04eafde5e33aadebd7cd"
+          }
+        },
+        {
+          "id": "lain.mods.cos.init:cosmeticarmorreworked:1.18.2-v2@jar",
+          "name": "CosmeticArmorReworked",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 88360,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/CosmeticArmorReworked-1.18.2-v2.jar",
+            "MD5": "7bdac047d509f034e512a7726a344558"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.simibubi:create:0.5.1.f@jar",
+          "name": "Create",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14906855,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/create-1.18.2-0.5.1.f.jar",
+            "MD5": "a9fc645f2a4720f831794bd160b9bc0b"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "top.theillusivec4:curios:1.18.2-5.0.7.1@jar",
+          "name": "Curios API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 270867,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/required/curios-forge-1.18.2-5.0.7.1.jar",
+            "MD5": "b2c1af02a295c5505a97059a7d574eff"
+          }
+        },
+        {
+          "id": "noppes.npcs:customnpcs:1.18.2.20230802@jar",
+          "name": "Custom NPCs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12725883,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/CustomNPCs-1.18.2.20230802snapshot.jar",
+            "MD5": "55623dced13ff5e19bab4326d39c89d8"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "org.orecruncher:dsurround:5.0.0.4@jar",
+          "name": "§3Dynamic Surroundings: Resurrected",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14834116,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/DynamicSurroundings-5.0.0.4.jar",
+            "MD5": "55e70883bce620d02c6fae80732d09c4"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "io.github.kosmx.emotes:emotecraft:2.2.7-b.build.50@jar",
+          "name": "Emotecraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 676761,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/emotecraft-for-MC1.18.2-2.2.7-b.build.50-forge.jar",
+            "MD5": "f89d6650a0edb095edebdec3dd6f0641"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "yesman.epicfight.main:epicfight:18.5.17@jar",
+          "name": "Epic Fight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5594361,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/EpicFight-18.5.17.jar",
+            "MD5": "1361a521f15d7de92fe1847b42e655fb"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "vectorwing.farmersdelight:farmersdelight:1.18.2-1.2.3@jar",
+          "name": "Farmer's Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2729124,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/FarmersDelight-1.18.2-1.2.3.jar",
+            "MD5": "a4ffdf191511ebf1b5b2408fe9f1b9f6"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "malte0811.ferritecore:ferritecore:4.2.2@jar",
+          "name": "Ferrite Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 116626,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/ferritecore-4.2.2-forge.jar",
+            "MD5": "ea8c0bfc697a73b0d1886e43a1a5a282"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "software.bernie.example:geckolib3:3.0.57@jar",
+          "name": "GeckoLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2927832,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/required/geckolib-forge-1.18-3.0.57.jar",
+            "MD5": "d491c30c6d9bd3f767bd545cbaf6502e"
+          }
+        },
+        {
+          "id": "com.github.alexthe666:iceandfire:2.1.13-1.18.2+build.beta-3@jar",
+          "name": "Ice and Fire",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21531214,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/iceandfire-2.1.13-1.18.2-beta-3.jar",
+            "MD5": "b36ba9a566788f2602f529de4d2a0963"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "immersive_melodies:immersive_melodies:0.1.0+1.18.2@jar",
+          "name": "Immersive Melodies",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2425156,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/immersive_melodies-0.1.0+1.18.2-forge.jar",
+            "MD5": "975629096c1018607d6400b99dd5fca5"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:incendium:5.0.8@jar",
+          "name": "Incendium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5039557,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/Incendium_1.18.2_v5.0.8.jar",
+            "MD5": "43fece2a0ff324b5632f5719d323b111"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "journeymap:journeymap:5.9.6@jar",
+          "name": "Journeymap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7084318,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/journeymap-1.18.2-5.9.6-forge.jar",
+            "MD5": "a6e02acab701cb53e7dce593dbfe2495"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "me.steinborn:lazydfu:0.1.3@jar",
+          "name": "LazyDFU",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15445,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/lazydfu-1.0-1.18+.jar",
+            "MD5": "f90813b92c422c9f159c5e7d89167233"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "gg.moonflower.locksmith.core:locksmith:1.1.1@jar",
+          "name": "Locksmith",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 365363,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/locksmith-forge-1.1.1+1.18.2.jar",
+            "MD5": "874bd09ce52859de0daaeb5e50017c4a"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "org.embeddedt.modernfix.forge.init:modernfix:5.13.0+mc1.18.2@jar",
+          "name": "ModernFix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 759170,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/modernfix-forge-5.13.0+mc1.18.2.jar",
+            "MD5": "01ea7992dc780a6a77174360a63c8927"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "noppes.mpm:moreplayermodels:1.18.2.20220801@jar",
+          "name": "More Player Models",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1166822,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/MorePlayerModels-1.18.2.20220801.jar",
+            "MD5": "62aa59c3909c6c30b928ce9ea82aa453"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.bobmowzie:mowziesmobs:1.5.32@jar",
+          "name": "Mowzie's Mobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13595545,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/mowziesmobs-1.5.32.jar",
+            "MD5": "eab504676bd90ec934f4053a8808faeb"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.chaosthedude:notes:1.18.2-1.2.4@jar",
+          "name": "Notes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 62081,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/Notes-1.18.2-1.2.4.jar",
+            "MD5": "0eb64e3ed5f3edfb317809f95cbf56b1"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "tictim.paraglider:paraglider:1.6.0.6@jar",
+          "name": "Paraglider",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 382579,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/Paraglider-1.18.2-1.6.0.6.jar",
+            "MD5": "81952a79862688d8c278c7338748ff1d"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "dev.kosmx.playeranim:playeranimator:1.0.2+1.18@jar",
+          "name": "Player Animator",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 181336,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/player-animation-lib-forge-1.0.2+1.18.jar",
+            "MD5": "33e51d8320f9d5d8e37bc7f9479d6a3e"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "gg.moonflower.pollen.core:pollen:1.6.1@jar",
+          "name": "Pollen",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1432061,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/pollen-forge-1.6.1+1.18.2.jar",
+            "MD5": "8e1cd4e1ce1d8a31a8bcf92995b55bf0"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.mcreator:relda:1.0.0@jar",
+          "name": "Relda",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14794036,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/Reldas+Medieval+Armor+1.18.2(2.0).jar",
+            "MD5": "6371419b95a1da45e9284a3cde95778a"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.talhanation:smallships:2.0.0-b1.0@jar",
+          "name": "Small Ships",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1792605,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/smallships-forge-1.18.2-2.0.0-b1.0.jar",
+            "MD5": "d929c18011c8a3c644de817feb701f6c"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedbackpacks:1.18.2-3.20.1.1011@jar",
+          "name": "Sophisticated Backpacks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 837255,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/sophisticatedbackpacks-1.18.2-3.20.1.1011.jar",
+            "MD5": "832f51bdebd329334b7626a7a15b7f93"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedcore:1.18.2-0.6.2.551@jar",
+          "name": "Sophisticated Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1068829,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/sophisticatedcore-1.18.2-0.6.2.551.jar",
+            "MD5": "3f8af26e52e4ab9ca89bb34e9dae5be1"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.mcreator.soullikearmorsreworked:soul_like_armors_reworked:138@jar",
+          "name": "Soul like armors reworked",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2803883,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/soul_like_armors_reworked_1.18.2_(v138).jar",
+            "MD5": "9f9b2113eb0662fba67af30f9c07f557"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.alaharranhonor:swem:1.4.5@jar",
+          "name": "Star Worm Equestrian Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10940517,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/swem-forge-1.18.2-1.4.5.jar",
+            "MD5": "596be376910e3a4761b8ab5adc090912"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "dev.gigaherz:toolbelt:1.18.9@jar",
+          "name": "Tool Belt",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 250038,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/ToolBelt-1.18.2-1.18.9.jar",
+            "MD5": "372682c55ecf615a1eb8777d79ad6f61"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.craftix:victorymod:1.0.3@jar",
+          "name": "VictoryMod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14165790,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/victorymod-1.18.2-2.0.3.jar",
+            "MD5": "493bf65802757e5165bc9001461147c0"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.blay09.mods:waystones:10.2.1@jar",
+          "name": "Waystones",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 386849,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/waystones-forge-1.18.2-10.2.1.jar",
+            "MD5": "12fdc6ea96a1bbf444032db09152ad64"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.minecraftserverzone:weaponmaster:3.0.3@jar",
+          "name": "YDM's Weapon Master",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 172652,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/weaponmaster-multi-forge-1.18.1-3.0.3.jar",
+            "MD5": "c6b2d9fd8045c2b2cd2d2fbadbde43a9"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "reascer.wom.main:wom:18.1.7.34@jar",
+          "name": "Weapons of Minecraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10150246,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/WeaponsOfMiracles-18.1.7.34.jar",
+            "MD5": "524d2abbc2fff236fd3421780c7b5e60"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "generated.library:OptiFine_1.18.2_HD_U_H9_MOD:0.0.0@jar",
+          "name": "OptiFine_1.18.2_HD_U_H9_MOD",
+          "type": "Library",
+          "artifact": {
+            "size": 6230778,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/libraries/OptiFine_1.18.2_HD_U_H9_MOD.jar",
+            "MD5": "a1d898e291e714b8a8b800ae6a3d0c5d"
+          }
+        },
+        {
+          "id": "iceandfire-client.toml",
+          "name": "iceandfire-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 321,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/config/iceandfire-client.toml",
+            "MD5": "3ce4c63821b13976f4412e1f1df6e87e",
+            "path": "config/iceandfire-client.toml"
+          }
+        },
+        {
+          "id": "toolbelt-client.toml",
+          "name": "toolbelt-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 871,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/config/toolbelt-client.toml",
+            "MD5": "3752454adac6f5d6476bd1500ad9c4e5",
+            "path": "config/toolbelt-client.toml"
+          }
+        },
+        {
+          "id": "command_block.json",
+          "name": "command_block.json",
+          "type": "File",
+          "artifact": {
+            "size": 482,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Arcanic%20Waystone%20Ressourcepack/assets/minecraft/models/item/command_block.json",
+            "MD5": "a3fb08a8c1a1bc53c6f599177269db8b",
+            "path": "resourcepacks/Arcanic Waystone Ressourcepack/assets/minecraft/models/item/command_block.json"
+          }
+        },
+        {
+          "id": "ghast_spawn_egg.json",
+          "name": "ghast_spawn_egg.json",
+          "type": "File",
+          "artifact": {
+            "size": 241,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Arcanic%20Waystone%20Ressourcepack/assets/minecraft/models/item/ghast_spawn_egg.json",
+            "MD5": "8c05b0db0df6435e90c8dda2c26a335f",
+            "path": "resourcepacks/Arcanic Waystone Ressourcepack/assets/minecraft/models/item/ghast_spawn_egg.json"
+          }
+        },
+        {
+          "id": "rune.json",
+          "name": "rune.json",
+          "type": "File",
+          "artifact": {
+            "size": 90,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Arcanic%20Waystone%20Ressourcepack/assets/rune/models/rune.json",
+            "MD5": "26737fbc008ad3a9dd73db4cf3953497",
+            "path": "resourcepacks/Arcanic Waystone Ressourcepack/assets/rune/models/rune.json"
+          }
+        },
+        {
+          "id": "rune.png",
+          "name": "rune.png",
+          "type": "File",
+          "artifact": {
+            "size": 1426,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Arcanic%20Waystone%20Ressourcepack/assets/rune/textures/rune.png",
+            "MD5": "fcab8b89b0446bff6e5507a7e5175695",
+            "path": "resourcepacks/Arcanic Waystone Ressourcepack/assets/rune/textures/rune.png"
+          }
+        },
+        {
+          "id": "Copyright.txt",
+          "name": "Copyright.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1301,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Arcanic%20Waystone%20Ressourcepack/Copyright.txt",
+            "MD5": "8bec9b134e31a9756cb63915f89694ff",
+            "path": "resourcepacks/Arcanic Waystone Ressourcepack/Copyright.txt"
+          }
+        },
+        {
+          "id": "Credits.txt",
+          "name": "Credits.txt",
+          "type": "File",
+          "artifact": {
+            "size": 509,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Arcanic%20Waystone%20Ressourcepack/Credits.txt",
+            "MD5": "96cfe8c32023e9ade4a985b4fdd4693f",
+            "path": "resourcepacks/Arcanic Waystone Ressourcepack/Credits.txt"
+          }
+        },
+        {
+          "id": "pack.mcmeta",
+          "name": "pack.mcmeta",
+          "type": "File",
+          "artifact": {
+            "size": 104,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Arcanic%20Waystone%20Ressourcepack/pack.mcmeta",
+            "MD5": "e27eac09a9160ec43ef3899d8eadd5f0",
+            "path": "resourcepacks/Arcanic Waystone Ressourcepack/pack.mcmeta"
+          }
+        },
+        {
+          "id": "pack.png",
+          "name": "pack.png",
+          "type": "File",
+          "artifact": {
+            "size": 2305,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Arcanic%20Waystone%20Ressourcepack/pack.png",
+            "MD5": "45822f059f1889b88305fbe7a8bb3a7f",
+            "path": "resourcepacks/Arcanic Waystone Ressourcepack/pack.png"
+          }
+        },
+        {
+          "id": "Arme.zip",
+          "name": "Arme.zip",
+          "type": "File",
+          "artifact": {
+            "size": 3100766,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Arme.zip",
+            "MD5": "a03d3c5e0b34369e144961f51cfd9462",
+            "path": "resourcepacks/Arme.zip"
+          }
+        },
+        {
+          "id": "Assassins Creed Weapon and Items 1.1.zip",
+          "name": "Assassins Creed Weapon and Items 1.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1268749,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Assassins%20Creed%20Weapon%20and%20Items%201.1.zip",
+            "MD5": "49c3428d33e9b9877aebfdfe894c9342",
+            "path": "resourcepacks/Assassins Creed Weapon and Items 1.1.zip"
+          }
+        },
+        {
+          "id": "Blades Of Majestica.zip",
+          "name": "Blades Of Majestica.zip",
+          "type": "File",
+          "artifact": {
+            "size": 803446,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Blades%20Of%20Majestica.zip",
+            "MD5": "a7b1c4cd769df617fdfe4bcee921a89f",
+            "path": "resourcepacks/Blades Of Majestica.zip"
+          }
+        },
+        {
+          "id": "Chuck RP V5.4.zip",
+          "name": "Chuck RP V5.4.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1085070,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Chuck%20RP%20V5.4.zip",
+            "MD5": "07e5a2571658ceeda62528904a0e0132",
+            "path": "resourcepacks/Chuck RP V5.4.zip"
+          }
+        },
+        {
+          "id": "CRRP-1.18.2-7.0.31 -2.zip",
+          "name": "CRRP-1.18.2-7.0.31 -2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 102016004,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/CRRP-1.18.2-7.0.31%20-2.zip",
+            "MD5": "629b16175e2b58b95dfa54a3ca5840e7",
+            "path": "resourcepacks/CRRP-1.18.2-7.0.31 -2.zip"
+          }
+        },
+        {
+          "id": "EF_anmation_1.18_v1.1.zip",
+          "name": "EF_anmation_1.18_v1.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1862693,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/EF_anmation_1.18_v1.1.zip",
+            "MD5": "c05e27f475da332ac33ec8a40e3e52a5",
+            "path": "resourcepacks/EF_anmation_1.18_v1.1.zip"
+          }
+        },
+        {
+          "id": "nongko's_Fantasy_Weapons_v1.13.zip",
+          "name": "nongko's_Fantasy_Weapons_v1.13.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1576424,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/nongko's_Fantasy_Weapons_v1.13.zip",
+            "MD5": "66d9be3da0225a76ec3767ee6f6a9e4d",
+            "path": "resourcepacks/nongko's_Fantasy_Weapons_v1.13.zip"
+          }
+        },
+        {
+          "id": "Weapon_and_Armor_Custom_V7.zip",
+          "name": "Weapon_and_Armor_Custom_V7.zip",
+          "type": "File",
+          "artifact": {
+            "size": 73233002,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Weapon_and_Armor_Custom_V7.zip",
+            "MD5": "14d074dd976c2ad728b0d5fa6ce25238",
+            "path": "resourcepacks/Weapon_and_Armor_Custom_V7.zip"
+          }
+        },
+        {
+          "id": "Zerotekz's_BladesOfWar2_v1.3.zip",
+          "name": "Zerotekz's_BladesOfWar2_v1.3.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1084336,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Zerotekz's_BladesOfWar2_v1.3.zip",
+            "MD5": "b429a65ad4c711f9ddaea5392072ebb5",
+            "path": "resourcepacks/Zerotekz's_BladesOfWar2_v1.3.zip"
+          }
+        }
+      ]
+    }
+  ]
+}
