@@ -801,13 +801,13 @@
           }
         },
         {
-          "id": "noppes.mpm:moreplayermodels:1.18.2.20220801@jar",
+          "id": "noppes.mpm:moreplayermodels:1.18.2.20240402@jar",
           "name": "More Player Models",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1166822,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/MorePlayerModels-1.18.2.20220801.jar",
-            "MD5": "62aa59c3909c6c30b928ce9ea82aa453"
+            "size": 1141629,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/MorePlayerModels-1.18.2.20240402snapshot.jar",
+            "MD5": "0a82248eb8246729e6bc7c87b4e68070"
           },
           "required": {
             "value": false
@@ -1219,14 +1219,14 @@
           }
         },
         {
-          "id": "Weapon_and_Armor_Custom_V7.zip",
-          "name": "Weapon_and_Armor_Custom_V7.zip",
+          "id": "Weapon_and_Armor_Custom_V8.zip",
+          "name": "Weapon_and_Armor_Custom_V8.zip",
           "type": "File",
           "artifact": {
-            "size": 73233002,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Weapon_and_Armor_Custom_V7.zip",
-            "MD5": "14d074dd976c2ad728b0d5fa6ce25238",
-            "path": "resourcepacks/Weapon_and_Armor_Custom_V7.zip"
+            "size": 68829424,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Weapon_and_Armor_Custom_V8.zip",
+            "MD5": "532698b68c403c841ea65e986672949d",
+            "path": "resourcepacks/Weapon_and_Armor_Custom_V8.zip"
           }
         },
         {
