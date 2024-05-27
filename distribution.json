@@ -622,13 +622,13 @@
           }
         },
         {
-          "id": "noppes.npcs:customnpcs:1.18.2.20230802@jar",
+          "id": "noppes.npcs:customnpcs:1.18.2.20230803@jar",
           "name": "Custom NPCs",
           "type": "ForgeMod",
           "artifact": {
-            "size": 12725883,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/CustomNPCs-1.18.2.20230802snapshot.jar",
-            "MD5": "55623dced13ff5e19bab4326d39c89d8"
+            "size": 12728332,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/CustomNPCs-1.18.2.20230803snapshot.jar",
+            "MD5": "9233465f6071ccf5d64d3d23ec9da70d"
           },
           "required": {
             "value": false
@@ -1164,6 +1164,17 @@
           }
         },
         {
+          "id": "backpacks.zip",
+          "name": "backpacks.zip",
+          "type": "File",
+          "artifact": {
+            "size": 8410,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/backpacks.zip",
+            "MD5": "cc6ab1a100769d60dd9d610eab39c753",
+            "path": "resourcepacks/backpacks.zip"
+          }
+        },
+        {
           "id": "Blades Of Majestica.zip",
           "name": "Blades Of Majestica.zip",
           "type": "File",
@@ -1183,6 +1194,17 @@
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Chuck%20RP%20V5.4.zip",
             "MD5": "07e5a2571658ceeda62528904a0e0132",
             "path": "resourcepacks/Chuck RP V5.4.zip"
+          }
+        },
+        {
+          "id": "corvus_addon_1.zip",
+          "name": "corvus_addon_1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 266399,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/corvus_addon_1.zip",
+            "MD5": "de26ffa8c73373c240cf5f9f8fff24f6",
+            "path": "resourcepacks/corvus_addon_1.zip"
           }
         },
         {
@@ -1208,14 +1230,47 @@
           }
         },
         {
-          "id": "nongko's_Fantasy_Weapons_v1.13.zip",
-          "name": "nongko's_Fantasy_Weapons_v1.13.zip",
+          "id": "MPM_Addon_V0.3.0b.zip",
+          "name": "MPM_Addon_V0.3.0b.zip",
           "type": "File",
           "artifact": {
-            "size": 1576424,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/nongko's_Fantasy_Weapons_v1.13.zip",
-            "MD5": "66d9be3da0225a76ec3767ee6f6a9e4d",
-            "path": "resourcepacks/nongko's_Fantasy_Weapons_v1.13.zip"
+            "size": 210973,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/MPM_Addon_V0.3.0b.zip",
+            "MD5": "18ce988df8a27e44e0ad0e3be4ef1d26",
+            "path": "resourcepacks/MPM_Addon_V0.3.0b.zip"
+          }
+        },
+        {
+          "id": "MPM_Long_Tails_Pack.zip",
+          "name": "MPM_Long_Tails_Pack.zip",
+          "type": "File",
+          "artifact": {
+            "size": 100145,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/MPM_Long_Tails_Pack.zip",
+            "MD5": "677c71c613ffaf9c1fd25d6f25cd88c8",
+            "path": "resourcepacks/MPM_Long_Tails_Pack.zip"
+          }
+        },
+        {
+          "id": "nongko's_Fantasy_Weapons_v1.14.zip",
+          "name": "nongko's_Fantasy_Weapons_v1.14.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1707615,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/nongko's_Fantasy_Weapons_v1.14.zip",
+            "MD5": "eceefea733bc7fb87989c9923fb8c55a",
+            "path": "resourcepacks/nongko's_Fantasy_Weapons_v1.14.zip"
+          }
+        },
+        {
+          "id": "Ruvys MPM Master Pack 1.1.zip",
+          "name": "Ruvys MPM Master Pack 1.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 683741,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Ruvys%20MPM%20Master%20Pack%201.1.zip",
+            "MD5": "988b4376d0c11c7c4cf0c5ce4cdf4ea5",
+            "path": "resourcepacks/Ruvys MPM Master Pack 1.1.zip"
           }
         },
         {
