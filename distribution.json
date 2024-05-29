@@ -892,13 +892,13 @@
           }
         },
         {
-          "id": "com.talhanation:smallships:2.0.0-b1.2@jar",
+          "id": "com.talhanation:smallships:2.0.0-b1.0@jar",
           "name": "Small Ships",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1792757,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/smallships-forge-1.18.2-2.0.0-b1.2.jar",
-            "MD5": "936458654ec892cb27bbe5e42b18abd0"
+            "size": 1792605,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/smallships-forge-1.18.2-2.0.0-b1.0.jar",
+            "MD5": "d929c18011c8a3c644de817feb701f6c"
           },
           "required": {
             "value": false
@@ -957,6 +957,19 @@
           }
         },
         {
+          "id": "dev.gigaherz:toolbelt:1.18.9@jar",
+          "name": "Tool Belt",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 250038,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/ToolBelt-1.18.2-1.18.9.jar",
+            "MD5": "372682c55ecf615a1eb8777d79ad6f61"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.craftix:victorymod:1.0.3@jar",
           "name": "VictoryMod",
           "type": "ForgeMod",
@@ -964,19 +977,6 @@
             "size": 14165790,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/victorymod-1.18.2-2.0.3.jar",
             "MD5": "493bf65802757e5165bc9001461147c0"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "genandnic.walljump:walljump:1.18.1-1.3.7@jar",
-          "name": "Wall-Jump!",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 83111,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/walljump-forge-1.18.1-1.3.7.jar",
-            "MD5": "4fbd244394a1db4ec6ef1be6879fc4ff"
           },
           "required": {
             "value": false
@@ -1019,6 +1019,16 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "generated.library:OptiFine_1.18.2_HD_U_H9_MOD:0.0.0@jar",
+          "name": "OptiFine_1.18.2_HD_U_H9_MOD",
+          "type": "Library",
+          "artifact": {
+            "size": 6230778,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/libraries/OptiFine_1.18.2_HD_U_H9_MOD.jar",
+            "MD5": "a1d898e291e714b8a8b800ae6a3d0c5d"
           }
         },
         {
