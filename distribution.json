@@ -553,6 +553,19 @@
           }
         },
         {
+          "id": "com.nitespring.bloodborne:bloodandmadness:2.0@jar",
+          "name": "Blood And Madness",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8428285,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/BloodAndMadness-Forge1.18.2-v2.1.4.jar",
+            "MD5": "a44b129586836f809e09030b97ef0e86"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "net.mcreator:butchersdelight:1.18.22.1.0@jar",
           "name": "ButchersDelight",
           "type": "ForgeMod",
@@ -951,6 +964,32 @@
             "size": 1432061,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/pollen-forge-1.6.1+1.18.2.jar",
             "MD5": "8e1cd4e1ce1d8a31a8bcf92995b55bf0"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.mcreator.realmrpgdemons:realmrpg_demons:0.9.0@jar",
+          "name": "Realm RPG: Imps & Demons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 128810,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/realmrpg_imps_and_demons_0.9.0_forge_1.18.2.jar",
+            "MD5": "dd1f9dcd471a930d7b87accf1f6cbc37"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.mcreator:seadwellers:2.9.9@jar",
+          "name": "Realm RPG: Sea Dwellers",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 759100,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/realmrpg_seadwellers_2.9.9_forge_1.18.2.jar",
+            "MD5": "ef9a9354364417c50838b7e7e8bfaf98"
           },
           "required": {
             "value": false
