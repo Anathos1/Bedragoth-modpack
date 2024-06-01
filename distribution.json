@@ -1335,9 +1335,9 @@
           "name": "Bedragoth.zip",
           "type": "File",
           "artifact": {
-            "size": 71112779,
+            "size": 71117498,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Bedragoth.zip",
-            "MD5": "0415eb22f4356e44f9d7751788230537",
+            "MD5": "6c06121a0019277ceef9f842cb525329",
             "path": "resourcepacks/Bedragoth.zip"
           }
         },
