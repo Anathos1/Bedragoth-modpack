@@ -1126,6 +1126,19 @@
           }
         },
         {
+          "id": "net.vicale200:warden_and_sculk:2.9.0@jar",
+          "name": "Warden and Sculk",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 23761153,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/warden_and_sculk-2.9.0.jar",
+            "MD5": "fa68acc2e882b638da695b4099ed5180"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "net.blay09.mods:waystones:10.2.1@jar",
           "name": "Waystones",
           "type": "ForgeMod",
@@ -1318,6 +1331,17 @@
           }
         },
         {
+          "id": "Bedragoth.zip",
+          "name": "Bedragoth.zip",
+          "type": "File",
+          "artifact": {
+            "size": 71112779,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Bedragoth.zip",
+            "MD5": "0415eb22f4356e44f9d7751788230537",
+            "path": "resourcepacks/Bedragoth.zip"
+          }
+        },
+        {
           "id": "Blades Of Majestica.zip",
           "name": "Blades Of Majestica.zip",
           "type": "File",
@@ -1414,28 +1438,6 @@
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Ruvys%20MPM%20Master%20Pack%201.1.zip",
             "MD5": "988b4376d0c11c7c4cf0c5ce4cdf4ea5",
             "path": "resourcepacks/Ruvys MPM Master Pack 1.1.zip"
-          }
-        },
-        {
-          "id": "statue.zip",
-          "name": "statue.zip",
-          "type": "File",
-          "artifact": {
-            "size": 1624488,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/statue.zip",
-            "MD5": "cbdb2070a3ec0bbdd591240509691b1d",
-            "path": "resourcepacks/statue.zip"
-          }
-        },
-        {
-          "id": "Weapon_and_Armor_Custom_V8.zip",
-          "name": "Weapon_and_Armor_Custom_V8.zip",
-          "type": "File",
-          "artifact": {
-            "size": 68829424,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Weapon_and_Armor_Custom_V8.zip",
-            "MD5": "532698b68c403c841ea65e986672949d",
-            "path": "resourcepacks/Weapon_and_Armor_Custom_V8.zip"
           }
         },
         {
