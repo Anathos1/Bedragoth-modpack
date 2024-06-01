@@ -615,6 +615,19 @@
           }
         },
         {
+          "id": "me.shedaniel.clothconfig:cloth_config:6.5.116@jar",
+          "name": "Cloth Config v4 API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1160196,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/cloth-config-6.5.116-forge.jar",
+            "MD5": "7f53014ffd1417b3872f1e22f7aa117d"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.conquestreforged.arms:conq_medieval_arms:1.0@jar",
           "name": "Conquest's Medieval Arms",
           "type": "ForgeMod",
@@ -759,6 +772,19 @@
             "size": 2927832,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/required/geckolib-forge-1.18-3.0.57.jar",
             "MD5": "d491c30c6d9bd3f767bd545cbaf6502e"
+          }
+        },
+        {
+          "id": "com.yyon.grapplinghook:grapplemod:1.18.2-v13@jar",
+          "name": "Grappling Hook Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 508526,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/grappling_hook_mod-1.18.2-v13.jar",
+            "MD5": "3d5cda33133a6269b0d3c085535fb9dc"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1388,6 +1414,17 @@
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Ruvys%20MPM%20Master%20Pack%201.1.zip",
             "MD5": "988b4376d0c11c7c4cf0c5ce4cdf4ea5",
             "path": "resourcepacks/Ruvys MPM Master Pack 1.1.zip"
+          }
+        },
+        {
+          "id": "statue.zip",
+          "name": "statue.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1624488,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/statue.zip",
+            "MD5": "cbdb2070a3ec0bbdd591240509691b1d",
+            "path": "resourcepacks/statue.zip"
           }
         },
         {
