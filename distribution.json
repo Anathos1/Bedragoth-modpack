@@ -1126,19 +1126,6 @@
           }
         },
         {
-          "id": "net.vicale200:warden_and_sculk:2.9.0@jar",
-          "name": "Warden and Sculk",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 23761153,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/warden_and_sculk-2.9.0.jar",
-            "MD5": "fa68acc2e882b638da695b4099ed5180"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "net.blay09.mods:waystones:10.2.1@jar",
           "name": "Waystones",
           "type": "ForgeMod",
