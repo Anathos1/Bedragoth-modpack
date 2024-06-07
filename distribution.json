@@ -651,6 +651,19 @@
           }
         },
         {
+          "id": "com.corosus.coroutil.loader:coroutil:1.18.2-1.3.6@jar",
+          "name": "CoroUtil",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 63854,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/coroutil-forge-1.18.2-1.3.6.jar",
+            "MD5": "1e55afc68fae8b2b4aa7f77b5b6ff7a7"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "lain.mods.cos.init:cosmeticarmorreworked:1.18.2-v2@jar",
           "name": "CosmeticArmorReworked",
           "type": "ForgeMod",
@@ -1035,13 +1048,13 @@
           }
         },
         {
-          "id": "com.talhanation:smallships:2.0.0-b1.2@jar",
+          "id": "com.talhanation:smallships:2.0.0-b1.2.1@jar",
           "name": "Small Ships",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1792757,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/smallships-forge-1.18.2-2.0.0-b1.2.jar",
-            "MD5": "936458654ec892cb27bbe5e42b18abd0"
+            "size": 1792743,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/smallships-forge-1.18.2-2.0.0-b1.2.1.jar",
+            "MD5": "e70b5ad389bcb21e212eda5bc8036b3c"
           },
           "required": {
             "value": false
@@ -1159,6 +1172,19 @@
             "size": 10150246,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/WeaponsOfMiracles-18.1.7.34.jar",
             "MD5": "524d2abbc2fff236fd3421780c7b5e60"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "weather2:weather2:1.18.2-2.7.5@jar",
+          "name": "Weather2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6720798,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/weather2-1.18.2-2.7.5.jar",
+            "MD5": "99e84ec1b6d7c98b88daa93bfda920ef"
           },
           "required": {
             "value": false
