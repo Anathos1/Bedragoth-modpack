@@ -1178,13 +1178,13 @@
           }
         },
         {
-          "id": "weather2:weather2:1.18.2-2.7.5@jar",
+          "id": "weather2:weather2:1.18.2-2.7.4@jar",
           "name": "Weather2",
           "type": "ForgeMod",
           "artifact": {
-            "size": 6720798,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/weather2-1.18.2-2.7.5.jar",
-            "MD5": "99e84ec1b6d7c98b88daa93bfda920ef"
+            "size": 6718519,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/weather2-1.18.2-2.7.4.jar",
+            "MD5": "a0ef7e208d8bad2e6fb154f0a34790f5"
           },
           "required": {
             "value": false
