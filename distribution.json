@@ -615,6 +615,19 @@
           }
         },
         {
+          "id": "org.valkyrienskies.clockwork:vs_clockwork:1.18.2-0.1.16-forge-a0682a9698@jar",
+          "name": "Clockwork: Create x Valkyrien Skies",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3267477,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/clockwork-1.18.2-0.1.16-forge-a0682a9698.jar",
+            "MD5": "2e790364969aa0bf0623159976548902"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "me.shedaniel.clothconfig:cloth_config:6.5.116@jar",
           "name": "Cloth Config v4 API",
           "type": "ForgeMod",
@@ -684,6 +697,19 @@
             "size": 14906855,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/create-1.18.2-0.5.1.f.jar",
             "MD5": "a9fc645f2a4720f831794bd160b9bc0b"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.jesz:createdieselgenerators:1.18.2-1.2h@jar",
+          "name": "Create Diesel Generators",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1466959,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/createdieselgenerators-1.18.2-1.2h.jar",
+            "MD5": "792c9a519bfb5c76d212155fa73b14e4"
           },
           "required": {
             "value": false
@@ -1107,6 +1133,19 @@
             "size": 10940517,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/swem-forge-1.18.2-1.4.5.jar",
             "MD5": "596be376910e3a4761b8ab5adc090912"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "org.valkyrienskies.mod:valkyrienskies:2.1.1-beta.5@jar",
+          "name": "Valkyrien Skies 2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14357585,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/valkyrienskies-118-2.1.1-beta.5.jar",
+            "MD5": "6b18e8670cbdd0807d0b8f9bc5f1d0f8"
           },
           "required": {
             "value": false
