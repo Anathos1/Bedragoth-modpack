@@ -892,6 +892,19 @@
           }
         },
         {
+          "id": "generated.forgemod:kotlinforforge:3.12.0-all@jar",
+          "name": "Kotlinforforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7365976,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/kotlinforforge-3.12.0-all.jar",
+            "MD5": "9026097ff419bd2d8a10f2e5755d4888"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "me.steinborn:lazydfu:0.1.3@jar",
           "name": "LazyDFU",
           "type": "ForgeMod",
