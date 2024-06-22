@@ -620,11 +620,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3267477,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/clockwork-1.18.2-0.1.16-forge-a0682a9698.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionaloff/clockwork-1.18.2-0.1.16-forge-a0682a9698.jar",
             "MD5": "2e790364969aa0bf0623159976548902"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
@@ -897,11 +898,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7365976,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/kotlinforforge-3.12.0-all.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionaloff/kotlinforforge-3.12.0-all.jar",
             "MD5": "9026097ff419bd2d8a10f2e5755d4888"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
@@ -964,6 +966,19 @@
             "size": 13595545,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/mowziesmobs-1.5.32.jar",
             "MD5": "eab504676bd90ec934f4053a8808faeb"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "fudge.notenoughcrashes:notenoughcrashes:4.2.0+1.18.2@jar",
+          "name": "Not Enough Crashes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 154760,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/notenoughcrashes-4.2.0+1.18.2-forge.jar",
+            "MD5": "c4a4716772aabde7e1eb4672c21edd01"
           },
           "required": {
             "value": false
@@ -1074,6 +1089,19 @@
           }
         },
         {
+          "id": "technicianlp.reauth:reauth:4.0.7@jar",
+          "name": "ReAuth",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 168765,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/ReAuth-1.18-Forge-4.0.7.jar",
+            "MD5": "b5c440d9986b44d5fc41409256860ce4"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "net.mcreator:relda:1.0.0@jar",
           "name": "Relda",
           "type": "ForgeMod",
@@ -1157,11 +1185,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 14357585,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/valkyrienskies-118-2.1.1-beta.5.jar",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionaloff/valkyrienskies-118-2.1.1-beta.5.jar",
             "MD5": "6b18e8670cbdd0807d0b8f9bc5f1d0f8"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
