@@ -740,6 +740,19 @@
           }
         },
         {
+          "id": "com.linfox.deeperinbedrock:stacked_dimensions_warden:1.0@jar",
+          "name": "Deeper In The Caves Remake",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9611016,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/deeperincavesupdateOMAGAD.jar",
+            "MD5": "c1d2be81adad5427bc2c4eb10f3bfb06"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "org.orecruncher:dsurround:5.0.0.4@jar",
           "name": "§3Dynamic Surroundings: Resurrected",
           "type": "ForgeMod",
@@ -933,6 +946,19 @@
           }
         },
         {
+          "id": "stepsword.mahoutsukai:mahoutsukai:1.18.2-v1.34.62@jar",
+          "name": "Mahou Tsukai",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3994993,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/mahoutsukai-1.18.2-v1.34.62.jar",
+            "MD5": "d5c80bf4431bdcd230b90290f06cf125"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "org.embeddedt.modernfix.forge.init:modernfix:5.13.0+mc1.18.2@jar",
           "name": "ModernFix",
           "type": "ForgeMod",
@@ -940,6 +966,19 @@
             "size": 759170,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/modernfix-forge-5.13.0+mc1.18.2.jar",
             "MD5": "01ea7992dc780a6a77174360a63c8927"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.klikli_dev:modonomicon:1.18.2-1.33.1@jar",
+          "name": "Modonomicon",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2042712,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/modonomicon-1.18.2-1.33.1.jar",
+            "MD5": "6e56eb2d0fbc0664e040a98fbd6201e4"
           },
           "required": {
             "value": false
@@ -1005,6 +1044,19 @@
             "size": 865597,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/obscure_api-10.jar",
             "MD5": "dd76f54e6e77ea6af7318290cb7b0ce6"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.github.klikli_dev:occultism:1.18.2-1.84.0@jar",
+          "name": "Occultism",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5257566,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/occultism-1.18.2-1.84.0.jar",
+            "MD5": "a91fdeb28c63e4d42e62e6dcde805583"
           },
           "required": {
             "value": false
@@ -1122,6 +1174,19 @@
             "size": 1792743,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/smallships-forge-1.18.2-2.0.0-b1.2.1.jar",
             "MD5": "e70b5ad389bcb21e212eda5bc8036b3c"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.tslat:smartbrainlib:1.9@jar",
+          "name": "SmartBrainLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 309946,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/SmartBrainLib-forge-1.18.2-1.9.jar",
+            "MD5": "bf597958396000f2847fbd77445f7742"
           },
           "required": {
             "value": false
