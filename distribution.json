@@ -721,9 +721,9 @@
           "name": "Create Teleporters",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1613416,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/createteleporters1.1BP.jar",
-            "MD5": "fbf238ffb2d86da29fd2a870c1f09232"
+            "size": 1607424,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/createteleporters1.0BP.jar",
+            "MD5": "70917fab0355e1a1475b43bcc7dbab3f"
           },
           "required": {
             "value": false
