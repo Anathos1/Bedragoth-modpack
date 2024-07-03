@@ -717,6 +717,19 @@
           }
         },
         {
+          "id": "net.createteleporters:createteleporters:0.6.1@jar",
+          "name": "Create Teleporters",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1613416,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/createteleporters1.1BP.jar",
+            "MD5": "fbf238ffb2d86da29fd2a870c1f09232"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "top.theillusivec4:curios:1.18.2-5.0.9.2@jar",
           "name": "Curios API",
           "type": "ForgeMod",
@@ -1531,6 +1544,17 @@
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/corvus_addon_1.zip",
             "MD5": "de26ffa8c73373c240cf5f9f8fff24f6",
             "path": "resourcepacks/corvus_addon_1.zip"
+          }
+        },
+        {
+          "id": "Create Teleporters Remastered.zip",
+          "name": "Create Teleporters Remastered.zip",
+          "type": "File",
+          "artifact": {
+            "size": 748250,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Create%20Teleporters%20Remastered.zip",
+            "MD5": "1aac01013b4755a5b4d5a7d66402e5b1",
+            "path": "resourcepacks/Create Teleporters Remastered.zip"
           }
         },
         {
