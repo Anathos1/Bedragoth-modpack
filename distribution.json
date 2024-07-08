@@ -452,6 +452,19 @@
           }
         },
         {
+          "id": "com.vaex:aquila:1.8.2@jar",
+          "name": "Aquila",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 40302021,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/aquila-1.18.2-1.8.2.jar",
+            "MD5": "b92126aa83f74a4bef1db71c69b641d8"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "dev.architectury:architectury:4.11.93@jar",
           "name": "Architectury",
           "type": "ForgeMod",
@@ -547,19 +560,6 @@
             "size": 60902,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/BetterThirdPerson-Forge-1.18.2-1.9.0.jar",
             "MD5": "3f25bc74ce3fa53082b78fb6d72ce46d"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "com.nitespring.bloodborne:bloodandmadness:2.0@jar",
-          "name": "Blood And Madness",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 8428285,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/BloodAndMadness-Forge1.18.2-v2.1.4.jar",
-            "MD5": "a44b129586836f809e09030b97ef0e86"
           },
           "required": {
             "value": false
