@@ -972,6 +972,19 @@
           }
         },
         {
+          "id": "mod.azure:doom:4.2.40@jar",
+          "name": "Doom Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7070774,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/MCDoom-Forge-1.18.2-4.2.40.jar",
+            "MD5": "7d140c31f937eba3c39df3b1516cf3fc"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "org.embeddedt.modernfix.forge.init:modernfix:5.13.0+mc1.18.2@jar",
           "name": "ModernFix",
           "type": "ForgeMod",
