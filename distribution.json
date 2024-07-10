@@ -1311,6 +1311,19 @@
           }
         },
         {
+          "id": "net.philipp_frzk.hookahmod:hookah_mod:0.3.0@jar",
+          "name": "Hookah Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 978767,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/Waterpipes_alpha-0.3.0.jar",
+            "MD5": "e7de208caf52b0378c22353822d15590"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "net.blay09.mods:waystones:10.2.1@jar",
           "name": "Waystones",
           "type": "ForgeMod",
