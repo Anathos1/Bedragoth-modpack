@@ -2,25 +2,25 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "813603229149560832",
-    "smallImageText": "(1.18.2)",
-    "smallImageKey": "bedra"
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
   "servers": [
     {
       "id": "Bedragoth-1.18.2",
       "name": "Bedragoth (Minecraft 1.18.2)",
       "description": "Bedragoth Running Minecraft 1.18.2 (Forge v40.2.17)",
-      "icon": "https://cdn.discordapp.com/attachments/762156060446162994/1209967606027788328/icon.png?ex=65e8d925&is=65d66425&hm=a165a906ddecfefd891e3f2fd223a1875a735f8469fc0d225d43746a3b686b38&",
+      "icon": null,
       "version": "1.0.0",
-      "address": "91.197.6.50:25573",
+      "address": "localhost:25565",
       "minecraftVersion": "1.18.2",
       "discord": {
-        "shortId": "Medieval Fantasy",
-        "largeImageText": "Serveur Roleplay Bedragoth",
-        "largeImageKey": "bedra"
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": true,
+      "mainServer": false,
       "autoconnect": false,
       "modules": [
         {
@@ -799,6 +799,19 @@
             "size": 5594361,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/EpicFight-18.5.17.jar",
             "MD5": "1361a521f15d7de92fe1847b42e655fb"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "xyz.apex.forge.fantasyfurniture.core:fantasyfurniture:3.14.0@jar",
+          "name": "Fantasy's Furniture",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3256446,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/fantasyfurniture-1.18.2-3.14.0.jar",
+            "MD5": "6d72d8dcd6743a5ec6a079c3fe1e6a05"
           },
           "required": {
             "value": false
