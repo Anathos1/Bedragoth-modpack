@@ -880,13 +880,13 @@
           }
         },
         {
-          "id": "immersive_melodies:immersive_melodies:0.1.0+1.18.2@jar",
+          "id": "immersive_melodies:immersive_melodies:0.1.2+1.18.2@jar",
           "name": "Immersive Melodies",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2425156,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/immersive_melodies-0.1.0+1.18.2-forge.jar",
-            "MD5": "975629096c1018607d6400b99dd5fca5"
+            "size": 2413341,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/immersive_melodies-0.1.2+1.18.2-forge.jar",
+            "MD5": "3a6e91edb17d97e410bc0d62a6788408"
           },
           "required": {
             "value": false
@@ -1667,9 +1667,9 @@
           "name": "Zerotekz's_BladesOfWar2_v1.3.zip",
           "type": "File",
           "artifact": {
-            "size": 1084336,
+            "size": 1177858,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Zerotekz's_BladesOfWar2_v1.3.zip",
-            "MD5": "b429a65ad4c711f9ddaea5392072ebb5",
+            "MD5": "e43a3dce475ea7595007cf9cc1f85e39",
             "path": "resourcepacks/Zerotekz's_BladesOfWar2_v1.3.zip"
           }
         }
