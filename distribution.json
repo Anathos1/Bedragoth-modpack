@@ -8,12 +8,12 @@
   },
   "servers": [
     {
-      "id": "Bedragoth-1.12.2",
+      "id": "Bedragoth-1.18.2",
       "name": "Bedragoth (Minecraft 1.18.2)",
-      "description": "Bedragoth Running Minecraft 1.18.2 (Forge v14.23.5.2854)",
+      "description": "Bedragoth Running Minecraft 1.18.2 (Forge v40.2.17)",
       "icon": "https://raw.githubusercontent.com/Anathos77/Test/master/icon.png",
       "version": "1.0.0",
-      "address": "91.197.6.50:25573",
+      "address": "localhost:25565",
       "minecraftVersion": "1.18.2",
       "discord": {
         "shortId": "Dark Fantasy",
