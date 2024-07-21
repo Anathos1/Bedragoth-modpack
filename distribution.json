@@ -16,8 +16,8 @@
       "address": "91.197.6.50:25573",
       "minecraftVersion": "1.18.2",
       "discord": {
-        "shortId": "Dark Fantasy",
-        "largeImageText": "Serveur Roleplay Bedragoth",
+        "shortId": "En Roleplay",
+        "largeImageText": "Bedragoth",
         "largeImageKey": "bedra"
       },
       "mainServer": true,
