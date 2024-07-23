@@ -1050,6 +1050,19 @@
           }
         },
         {
+          "id": "com.yahoo.chirpycricket:mythicmounts:18.2-7.2-forge@jar",
+          "name": "MythicMounts",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4331787,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/mythicmounts-18.2-7.2-forge.jar",
+            "MD5": "379d280e47a3b9afe615d2d0ad6db2cb"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "fudge.notenoughcrashes:notenoughcrashes:4.2.0+1.18.2@jar",
           "name": "Not Enough Crashes",
           "type": "ForgeMod",
@@ -1638,6 +1651,17 @@
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/MPM_Long_Tails_Pack.zip",
             "MD5": "677c71c613ffaf9c1fd25d6f25cd88c8",
             "path": "resourcepacks/MPM_Long_Tails_Pack.zip"
+          }
+        },
+        {
+          "id": "nongko's_Bows_To_Staves_v1.7.zip",
+          "name": "nongko's_Bows_To_Staves_v1.7.zip",
+          "type": "File",
+          "artifact": {
+            "size": 311133,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/nongko's_Bows_To_Staves_v1.7.zip",
+            "MD5": "a2b868a3e83e128a8085c9d40f20997f",
+            "path": "resourcepacks/nongko's_Bows_To_Staves_v1.7.zip"
           }
         },
         {
