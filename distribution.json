@@ -426,6 +426,19 @@
           }
         },
         {
+          "id": "net.mcreator:infectum:1.0.0@jar",
+          "name": "Infectum",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2910609,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/1.6.1_infectum.jar",
+            "MD5": "3205b9561bed1d37040ab8e00e7abcf1"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.github.alexthe666:alexsmobs:1.18.6@jar",
           "name": "Alex's Mobs",
           "type": "ForgeMod",
