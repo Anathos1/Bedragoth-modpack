@@ -1219,6 +1219,19 @@
           }
         },
         {
+          "id": "net.mcreator:rogcontinued:1.2.0@jar",
+          "name": "Relics Of Gaming Continued",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 22978511,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/ROGContinued-forge-1.2.0.jar",
+            "MD5": "0c0c7dd4ccd2c4ac8600ec760b3c013e"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.talhanation:smallships:2.0.0-b1.2.1@jar",
           "name": "Small Ships",
           "type": "ForgeMod",
@@ -1431,6 +1444,17 @@
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/config/toolbelt-client.toml",
             "MD5": "3752454adac6f5d6476bd1500ad9c4e5",
             "path": "config/toolbelt-client.toml"
+          }
+        },
+        {
+          "id": "3D fish_rod 1.19.3-1.20.1.zip",
+          "name": "3D fish_rod 1.19.3-1.20.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 273913,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/3D%20fish_rod%201.19.3-1.20.1.zip",
+            "MD5": "e14329142789703bb927ecac757e9448",
+            "path": "resourcepacks/3D fish_rod 1.19.3-1.20.1.zip"
           }
         },
         {
