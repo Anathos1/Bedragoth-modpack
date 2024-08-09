@@ -959,6 +959,19 @@
           }
         },
         {
+          "id": "l_ender.cataclysm:cataclysm:1.0@jar",
+          "name": "Cataclysm Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12720485,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/L_Enders%20Cataclysm-0.51-changed%20Them%20-1.18.2.jar",
+            "MD5": "517b8f2a674aa6ab6b67a7d6a3c3fa73"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "me.steinborn:lazydfu:0.1.3@jar",
           "name": "LazyDFU",
           "type": "ForgeMod",
@@ -1070,6 +1083,19 @@
             "size": 4331787,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/mythicmounts-18.2-7.2-forge.jar",
             "MD5": "379d280e47a3b9afe615d2d0ad6db2cb"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.nethersdelight.core:nethersdelight:2.2@jar",
+          "name": "Nethers Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 301093,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/NethersDelight-1.18.2-2.2.0.jar",
+            "MD5": "6925f391fd09103bd1ff8ec302d71421"
           },
           "required": {
             "value": false
@@ -1596,9 +1622,9 @@
           "name": "Bedragoth.zip",
           "type": "File",
           "artifact": {
-            "size": 71117498,
+            "size": 72295805,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Bedragoth.zip",
-            "MD5": "6c06121a0019277ceef9f842cb525329",
+            "MD5": "d438d6de92c1467e584d6528492880c7",
             "path": "resourcepacks/Bedragoth.zip"
           }
         },
