@@ -1,4 +1,4 @@
-{
+{{
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
@@ -618,6 +618,19 @@
           }
         },
         {
+          "id": "com.mitosv:cinematic:1.18.2-1.0@jar",
+          "name": "Cinematic Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 389077,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/cinematic-forge-1.18.2-1.0.jar",
+            "MD5": "6e73e23713e005101ce0069fc7a03d45"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.github.alexthe666:citadel:1.11.3@jar",
           "name": "Citadel",
           "type": "ForgeMod",
@@ -812,6 +825,19 @@
             "size": 5594361,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/EpicFight-18.5.17.jar",
             "MD5": "1361a521f15d7de92fe1847b42e655fb"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "nick1st.fancyvideo:fancyvideo_api:2.2.0.0@jar",
+          "name": "FancyVideo API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 19020798,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/FancyVideo-API-forge-2.2.0.0.jar",
+            "MD5": "2fdb6d3d82f1e7d53bf603626d8eba4d"
           },
           "required": {
             "value": false
@@ -1758,6 +1784,28 @@
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Zerotekz's_BladesOfWar2_v1.3.zip",
             "MD5": "e43a3dce475ea7595007cf9cc1f85e39",
             "path": "resourcepacks/Zerotekz's_BladesOfWar2_v1.3.zip"
+          }
+        },
+        {
+          "id": "Portail_court.mp4",
+          "name": "Portail_court.mp4",
+          "type": "File",
+          "artifact": {
+            "size": 12381228,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/video/Portail_court.mp4",
+            "MD5": "addf8678851269269e6071069587d82a",
+            "path": "video/Portail_court.mp4"
+          }
+        },
+        {
+          "id": "Portail_long.mp4",
+          "name": "Portail_long.mp4",
+          "type": "File",
+          "artifact": {
+            "size": 51158883,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/video/Portail_long.mp4",
+            "MD5": "8849103ec1aa467b90e3957b90b6b167",
+            "path": "video/Portail_long.mp4"
           }
         }
       ]
