@@ -831,6 +831,19 @@
           }
         },
         {
+          "id": "fr.exodemc:exodemod:1.0@jar",
+          "name": "Exodemod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14694,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/exodemod-forge-1.18.jar",
+            "MD5": "e0f80a0edd140e67191b1d118ab20baf"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "nick1st.fancyvideo:fancyvideo_api:2.2.0.0@jar",
           "name": "FancyVideo API",
           "type": "ForgeMod",
@@ -1122,6 +1135,19 @@
             "size": 301093,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/NethersDelight-1.18.2-2.2.0.jar",
             "MD5": "6925f391fd09103bd1ff8ec302d71421"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "dev.tr7zw:notenoughanimations:1.7.4@jar",
+          "name": "NotEnoughAnimations",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 431640,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/notenoughanimations-forge-1.7.4-mc1.18.2.jar",
+            "MD5": "4a2d31977a56cef8261af90131ebeac3"
           },
           "required": {
             "value": false
@@ -1648,9 +1674,9 @@
           "name": "Bedragoth.zip",
           "type": "File",
           "artifact": {
-            "size": 72295805,
+            "size": 72328207,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Bedragoth.zip",
-            "MD5": "d438d6de92c1467e584d6528492880c7",
+            "MD5": "80b3b506761e66adffa88ed040dde3a9",
             "path": "resourcepacks/Bedragoth.zip"
           }
         },
@@ -1659,9 +1685,9 @@
           "name": "Blades Of Majestica.zip",
           "type": "File",
           "artifact": {
-            "size": 803446,
+            "size": 2004951,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Blades%20Of%20Majestica.zip",
-            "MD5": "a7b1c4cd769df617fdfe4bcee921a89f",
+            "MD5": "4c33141f9eb120e30823091d8247bec9",
             "path": "resourcepacks/Blades Of Majestica.zip"
           }
         },
