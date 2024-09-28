@@ -831,19 +831,6 @@
           }
         },
         {
-          "id": "fr.exodemc:exodemod:1.0@jar",
-          "name": "Exodemod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 14694,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/exodemod-forge-1.18.jar",
-            "MD5": "e0f80a0edd140e67191b1d118ab20baf"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "nick1st.fancyvideo:fancyvideo_api:2.2.0.0@jar",
           "name": "FancyVideo API",
           "type": "ForgeMod",
@@ -1219,13 +1206,13 @@
           }
         },
         {
-          "id": "com.alrex:parcool:1.18.2-3.2.1.2-R@jar",
+          "id": "com.alrex:parcool:1.18.2-3.3.0.1-R@jar",
           "name": "ParCool!",
           "type": "ForgeMod",
           "artifact": {
-            "size": 827620,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/ParCool-1.18.2-3.2.1.2-R.jar",
-            "MD5": "53058bbd00fc1b75a55d3e22ac5137a6"
+            "size": 876267,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/ParCool-1.18.2-3.3.0.1-R.jar",
+            "MD5": "472cb0ab862d654c9a115a596c4560ae"
           },
           "required": {
             "value": false
@@ -1813,7 +1800,17 @@
           }
         },
         {
-<<<<<<< HEAD
+          "id": "Avalanche.mp4",
+          "name": "Avalanche.mp4",
+          "type": "File",
+          "artifact": {
+            "size": 57818231,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/video/Avalanche.mp4",
+            "MD5": "d59ac7316148077a65189b518c307bac",
+            "path": "video/Avalanche.mp4"
+          }
+        },
+        {
           "id": "caverne.mp4",
           "name": "caverne.mp4",
           "type": "File",
@@ -1836,8 +1833,6 @@
           }
         },
         {
-=======
->>>>>>> parent of 64077812 (9.3.1)
           "id": "Portail_court.mp4",
           "name": "Portail_court.mp4",
           "type": "File",
@@ -1858,7 +1853,6 @@
             "MD5": "8849103ec1aa467b90e3957b90b6b167",
             "path": "video/Portail_long.mp4"
           }
-<<<<<<< HEAD
         },
         {
           "id": "Seidh_devaste.mp4",
@@ -1905,28 +1899,15 @@
           }
         },
         {
-          "id": "Vampire- Maelon et Rannveig (1).mp4",
-          "name": "Vampire- Maelon et Rannveig (1).mp4",
+          "id": "Vampire- Maelon et Rannveig.mp4",
+          "name": "Vampire- Maelon et Rannveig.mp4",
           "type": "File",
           "artifact": {
             "size": 58692576,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/video/Vampire-%20Maelon%20et%20Rannveig%20(1).mp4",
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/video/Vampire-%20Maelon%20et%20Rannveig.mp4",
             "MD5": "e36c64566bfc73d36e6406305cf7fc58",
-            "path": "video/Vampire- Maelon et Rannveig (1).mp4"
+            "path": "video/Vampire- Maelon et Rannveig.mp4"
           }
-        },
-        {
-          "id": "Vampire- Maelon et Rannveig (2).mp4",
-          "name": "Vampire- Maelon et Rannveig (2).mp4",
-          "type": "File",
-          "artifact": {
-            "size": 57818231,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/video/Vampire-%20Maelon%20et%20Rannveig%20(2).mp4",
-            "MD5": "d59ac7316148077a65189b518c307bac",
-            "path": "video/Vampire- Maelon et Rannveig (2).mp4"
-          }
-=======
->>>>>>> parent of 64077812 (9.3.1)
         }
       ]
     }
