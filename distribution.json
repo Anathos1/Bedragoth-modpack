@@ -1813,6 +1813,31 @@
           }
         },
         {
+<<<<<<< HEAD
+          "id": "caverne.mp4",
+          "name": "caverne.mp4",
+          "type": "File",
+          "artifact": {
+            "size": 2662214,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/video/caverne.mp4",
+            "MD5": "50fec358f224d60709811df34ecfa49c",
+            "path": "video/caverne.mp4"
+          }
+        },
+        {
+          "id": "Chateau.mp4",
+          "name": "Chateau.mp4",
+          "type": "File",
+          "artifact": {
+            "size": 33018702,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/video/Chateau.mp4",
+            "MD5": "20c9070dcbe784c5a5e8cc0811c094bd",
+            "path": "video/Chateau.mp4"
+          }
+        },
+        {
+=======
+>>>>>>> parent of 64077812 (9.3.1)
           "id": "Portail_court.mp4",
           "name": "Portail_court.mp4",
           "type": "File",
@@ -1833,6 +1858,75 @@
             "MD5": "8849103ec1aa467b90e3957b90b6b167",
             "path": "video/Portail_long.mp4"
           }
+<<<<<<< HEAD
+        },
+        {
+          "id": "Seidh_devaste.mp4",
+          "name": "Seidh_devaste.mp4",
+          "type": "File",
+          "artifact": {
+            "size": 8293107,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/video/Seidh_devaste.mp4",
+            "MD5": "4cc8041aa1db1214bd109de007761c71",
+            "path": "video/Seidh_devaste.mp4"
+          }
+        },
+        {
+          "id": "Seidh_espace.mp4",
+          "name": "Seidh_espace.mp4",
+          "type": "File",
+          "artifact": {
+            "size": 8983731,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/video/Seidh_espace.mp4",
+            "MD5": "018dfc79005e2a4ab5d490ef36ffc630",
+            "path": "video/Seidh_espace.mp4"
+          }
+        },
+        {
+          "id": "Seidh_forêt.mp4",
+          "name": "Seidh_forêt.mp4",
+          "type": "File",
+          "artifact": {
+            "size": 4423826,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/video/Seidh_for%C3%AAt.mp4",
+            "MD5": "0831f35a24646bf695fbff9235178069",
+            "path": "video/Seidh_forêt.mp4"
+          }
+        },
+        {
+          "id": "Tempête.mp4",
+          "name": "Tempête.mp4",
+          "type": "File",
+          "artifact": {
+            "size": 6714860,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/video/Temp%C3%AAte.mp4",
+            "MD5": "56cd1aebdd049eb58113ec8306bd1e2b",
+            "path": "video/Tempête.mp4"
+          }
+        },
+        {
+          "id": "Vampire- Maelon et Rannveig (1).mp4",
+          "name": "Vampire- Maelon et Rannveig (1).mp4",
+          "type": "File",
+          "artifact": {
+            "size": 58692576,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/video/Vampire-%20Maelon%20et%20Rannveig%20(1).mp4",
+            "MD5": "e36c64566bfc73d36e6406305cf7fc58",
+            "path": "video/Vampire- Maelon et Rannveig (1).mp4"
+          }
+        },
+        {
+          "id": "Vampire- Maelon et Rannveig (2).mp4",
+          "name": "Vampire- Maelon et Rannveig (2).mp4",
+          "type": "File",
+          "artifact": {
+            "size": 57818231,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/video/Vampire-%20Maelon%20et%20Rannveig%20(2).mp4",
+            "MD5": "d59ac7316148077a65189b518c307bac",
+            "path": "video/Vampire- Maelon et Rannveig (2).mp4"
+          }
+=======
+>>>>>>> parent of 64077812 (9.3.1)
         }
       ]
     }
