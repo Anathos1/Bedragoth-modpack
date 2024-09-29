@@ -1661,9 +1661,9 @@
           "name": "Bedragoth.zip",
           "type": "File",
           "artifact": {
-            "size": 72328207,
+            "size": 67328394,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Bedragoth.zip",
-            "MD5": "80b3b506761e66adffa88ed040dde3a9",
+            "MD5": "61ec852ce5f1d40c35f7843fc6228ffa",
             "path": "resourcepacks/Bedragoth.zip"
           }
         },
@@ -1672,9 +1672,9 @@
           "name": "Blades Of Majestica.zip",
           "type": "File",
           "artifact": {
-            "size": 2004951,
+            "size": 2033578,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Blades%20Of%20Majestica.zip",
-            "MD5": "4c33141f9eb120e30823091d8247bec9",
+            "MD5": "96ef103ca39f8cc7ad76aeb8bd683949",
             "path": "resourcepacks/Blades Of Majestica.zip"
           }
         },
