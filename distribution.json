@@ -579,6 +579,19 @@
           }
         },
         {
+          "id": "de.keksuccino:biggerchathistory:1.0.0@jar",
+          "name": "BiggerChatHistory",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 19208,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/biggerchathistory_1.0.0_MC_1.17.1.jar",
+            "MD5": "98334b746594058d1555115e3b1baba4"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "net.mcreator:butchersdelight:1.18.22.1.0@jar",
           "name": "ButchersDelight",
           "type": "ForgeMod",
@@ -900,6 +913,19 @@
             "size": 508526,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/grappling_hook_mod-1.18.2-v13.jar",
             "MD5": "3d5cda33133a6269b0d3c085535fb9dc"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.jaquadro.minecraft:hungerstrike:1.18-6.0.0@jar",
+          "name": "Hunger Strike",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 33311,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/HungerStrike-1.18-6.0.0.jar",
+            "MD5": "cdd2eb9425d4b9e5856445a763c3e864"
           },
           "required": {
             "value": false
@@ -1661,9 +1687,9 @@
           "name": "Bedragoth.zip",
           "type": "File",
           "artifact": {
-            "size": 67328394,
+            "size": 68595594,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/files/resourcepacks/Bedragoth.zip",
-            "MD5": "61ec852ce5f1d40c35f7843fc6228ffa",
+            "MD5": "a20f733cd77a499146f9ff685d834be6",
             "path": "resourcepacks/Bedragoth.zip"
           }
         },
