@@ -566,19 +566,6 @@
           }
         },
         {
-          "id": "io.socol:betterthirdperson:1.9.0@jar",
-          "name": "Better Third Person",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 60902,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/BetterThirdPerson-Forge-1.18.2-1.9.0.jar",
-            "MD5": "3f25bc74ce3fa53082b78fb6d72ce46d"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "de.keksuccino:biggerchathistory:1.0.0@jar",
           "name": "BiggerChatHistory",
           "type": "ForgeMod",
