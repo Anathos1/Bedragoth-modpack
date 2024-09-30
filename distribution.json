@@ -844,6 +844,19 @@
           }
         },
         {
+          "id": "com.eruannie_9:extragore:2.2.3.1@jar",
+          "name": "Extra Gore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 47636,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/extragore-1.18.2-2.2.3.1.jar",
+            "MD5": "0d04f5c086417526481d772be167eb25"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "nick1st.fancyvideo:fancyvideo_api:2.2.0.0@jar",
           "name": "FancyVideo API",
           "type": "ForgeMod",
@@ -984,6 +997,19 @@
           }
         },
         {
+          "id": "net.mcreator:jet_and_elias_armors:1.0.0@jar",
+          "name": "Jet and Elia's Armors",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6616778,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/JetAndEliasArmors1.4.1-1.18.2.jar",
+            "MD5": "6a961172bce420f700b62005aa971c5d"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "journeymap:journeymap:5.9.6@jar",
           "name": "Journeymap",
           "type": "ForgeMod",
@@ -1070,6 +1096,19 @@
             "size": 7070774,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/MCDoom-Forge-1.18.2-4.2.40.jar",
             "MD5": "7d140c31f937eba3c39df3b1516cf3fc"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.mcreator.medievaldefense:medieval_defense:1.0.0@jar",
+          "name": "Medieval Defense",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 565525,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/MedievalDefense-1.18.2-V-1.0.jar",
+            "MD5": "69286e5d7d6139e0a58b1311d7caf524"
           },
           "required": {
             "value": false
@@ -1513,6 +1552,19 @@
             "size": 6718519,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/weather2-1.18.2-2.7.4.jar",
             "MD5": "a0ef7e208d8bad2e6fb154f0a34790f5"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.mcreator.invisiblebuttonmod:invisible_button_mod:1.0.0@jar",
+          "name": "Invisible Button Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13335,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/zaynens_invisible_button_mod_1.18.2.jar",
+            "MD5": "0060505854c25c1233bdc209b537af3a"
           },
           "required": {
             "value": false
