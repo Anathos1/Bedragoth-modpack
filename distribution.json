@@ -566,19 +566,6 @@
           }
         },
         {
-          "id": "de.keksuccino:biggerchathistory:1.0.0@jar",
-          "name": "BiggerChatHistory",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 19208,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/biggerchathistory_1.0.0_MC_1.17.1.jar",
-            "MD5": "98334b746594058d1555115e3b1baba4"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "net.mcreator:butchersdelight:1.18.22.1.0@jar",
           "name": "ButchersDelight",
           "type": "ForgeMod",
