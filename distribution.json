@@ -753,13 +753,13 @@
           }
         },
         {
-          "id": "noppes.npcs:customnpcs:1.18.2.20230803@jar",
+          "id": "noppes.npcs:customnpcs:1.18.2.20241009@jar",
           "name": "Custom NPCs",
           "type": "ForgeMod",
           "artifact": {
-            "size": 12728332,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/CustomNPCs-1.18.2.20230803snapshot.jar",
-            "MD5": "9233465f6071ccf5d64d3d23ec9da70d"
+            "size": 10291727,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/CustomNPCs-1.18.2.20241009snapshot.jar",
+            "MD5": "6cdcac5d94088a16bb427f562c02ce39"
           },
           "required": {
             "value": false
@@ -1148,6 +1148,19 @@
             "size": 4331787,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/mythicmounts-18.2-7.2-forge.jar",
             "MD5": "379d280e47a3b9afe615d2d0ad6db2cb"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "net.mcreator.necromancerandgiantskeleton:necromancer_and_giantskeleton:1.0.0@jar",
+          "name": "Necromancer_and_giantskeleton",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 439431,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/necro_and_skele_0.2_release.jar",
+            "MD5": "84b577e6d742f615e3657434b42d388e"
           },
           "required": {
             "value": false
