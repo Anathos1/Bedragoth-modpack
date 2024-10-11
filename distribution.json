@@ -753,13 +753,13 @@
           }
         },
         {
-          "id": "noppes.npcs:customnpcs:1.18.2.20241009@jar",
+          "id": "noppes.npcs:customnpcs:1.18.2.20241011@jar",
           "name": "Custom NPCs",
           "type": "ForgeMod",
           "artifact": {
-            "size": 10291727,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/CustomNPCs-1.18.2.20241009snapshot.jar",
-            "MD5": "6cdcac5d94088a16bb427f562c02ce39"
+            "size": 10294200,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/CustomNPCs-1.18.2.20241011snapshot.jar",
+            "MD5": "6a91b5832a1d218f56547dbdb0a57c04"
           },
           "required": {
             "value": false
