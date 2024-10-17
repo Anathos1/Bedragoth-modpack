@@ -1427,6 +1427,19 @@
           }
         },
         {
+          "id": "com.railwayteam:railways:1.4.8+forge-mc1.18.2-build.23@jar",
+          "name": "Create: Steam 'n Rails",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4462084,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/Steam_Rails-1.4.8+forge-mc1.18.2-build.23.jar",
+            "MD5": "caf05612d42778f19eb81ad7f1a2c9f8"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.alaharranhonor:swem:1.4.5@jar",
           "name": "Star Worm Equestrian Mod",
           "type": "ForgeMod",
