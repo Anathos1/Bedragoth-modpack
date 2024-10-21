@@ -766,13 +766,13 @@
           }
         },
         {
-          "id": "noppes.npcs:customnpcs:1.18.2.20241011@jar",
+          "id": "noppes.npcs:customnpcs:1.18.2.20241020@jar",
           "name": "Custom NPCs",
           "type": "ForgeMod",
           "artifact": {
-            "size": 10294200,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/CustomNPCs-1.18.2.20241011snapshot.jar",
-            "MD5": "6a91b5832a1d218f56547dbdb0a57c04"
+            "size": 10298974,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/CustomNPCs-1.18.2.20241020snapshot.jar",
+            "MD5": "1ead8c43bf0f470ccd0ff029f8b41466"
           },
           "required": {
             "value": false
@@ -1200,6 +1200,19 @@
             "size": 301093,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/NethersDelight-1.18.2-2.2.0.jar",
             "MD5": "6925f391fd09103bd1ff8ec302d71421"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.divinegaming:nmcmobs:1.18.2-1.0.12@jar",
+          "name": "NightmareCraft: Mobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 41910080,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/nmcmobs-1.18.2-1.0.12.jar",
+            "MD5": "a7ac04a8237d3e88768bf04880a72ae9"
           },
           "required": {
             "value": false
