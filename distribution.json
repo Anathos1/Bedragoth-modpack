@@ -452,6 +452,19 @@
           }
         },
         {
+          "id": "dev.the_fireplace.annotateddi.impl.entrypoint:annotateddi:4.0.4+1.18.2@jar",
+          "name": "Annotated DI",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 860070,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/Annotated-DI-Forge-4.0.4+1.18.2.jar",
+            "MD5": "9e90351a89b50783c738a625dc6e3778"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "com.obscuria:aquamirae:5.api10@jar",
           "name": "Aquamirae",
           "type": "ForgeMod",
@@ -877,6 +890,19 @@
             "size": 116626,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/ferritecore-4.2.2-forge.jar",
             "MD5": "ea8c0bfc697a73b0d1886e43a1a5a282"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "dev.the_fireplace.lib.entrypoints:fireplacelib:7.1.2+1.18.2@jar",
+          "name": "Fireplace Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1191550,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/Fireplace-Lib-Forge-7.1.2+1.18.2.jar",
+            "MD5": "b839a74caa778528a7532f601eb86b96"
           },
           "required": {
             "value": false
@@ -1447,6 +1473,19 @@
             "size": 10940517,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/swem-forge-1.18.2-1.4.5.jar",
             "MD5": "596be376910e3a4761b8ab5adc090912"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "dev.the_fireplace.textbook.entrypoints:textbook:2.2.1+1.18.2@jar",
+          "name": "Textbook",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 103116,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.18.2/forgemods/optionalon/Textbook-Forge-2.2.1+1.18.2.jar",
+            "MD5": "074250cc0e98e20e89588123996e588f"
           },
           "required": {
             "value": false
