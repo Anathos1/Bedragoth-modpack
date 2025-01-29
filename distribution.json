@@ -797,19 +797,6 @@
           }
         },
         {
-          "id": "com.conquestreforged:conquest:1.2.8@jar",
-          "name": "Conquest",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 164483216,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/forgemods/optionalon/ConquestReforged-fabric-1.20.1-1.2.8.jar",
-            "MD5": "1c15f852da6b8057fdc8e0c57eeb1005"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "generated.forgemod:continuity:3.0.0-beta.6+1.20.1-custom@jar",
           "name": "Continuity",
           "type": "ForgeMod",
@@ -2095,28 +2082,6 @@
           }
         },
         {
-          "id": "04_snglply_activer.png",
-          "name": "04_snglply_activer.png",
-          "type": "File",
-          "artifact": {
-            "size": 158146,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/04_snglply_activer.png",
-            "MD5": "db28fed25f13e92a35c6fb79157c9c68",
-            "path": "config/fancymenu/assets/04_snglply_activer.png"
-          }
-        },
-        {
-          "id": "04_snglply_inactiver.png",
-          "name": "04_snglply_inactiver.png",
-          "type": "File",
-          "artifact": {
-            "size": 158299,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/04_snglply_inactiver.png",
-            "MD5": "80ecff846fdb8a3f94611c844d5dd1ce",
-            "path": "config/fancymenu/assets/04_snglply_inactiver.png"
-          }
-        },
-        {
           "id": "accueil.wav",
           "name": "accueil.wav",
           "type": "File",
@@ -2183,83 +2148,6 @@
           }
         },
         {
-          "id": "bedra.png",
-          "name": "bedra.png",
-          "type": "File",
-          "artifact": {
-            "size": 2512098,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/bedra.png",
-            "MD5": "4229f34ef2fc348b0442f1b3ef7df894",
-            "path": "config/fancymenu/assets/bedra.png"
-          }
-        },
-        {
-          "id": "bedragoth.png",
-          "name": "bedragoth.png",
-          "type": "File",
-          "artifact": {
-            "size": 8786,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/bedragoth.png",
-            "MD5": "04f215e8695212b50aea8198bcb7aff6",
-            "path": "config/fancymenu/assets/bedragoth.png"
-          }
-        },
-        {
-          "id": "bedratest.jpg",
-          "name": "bedratest.jpg",
-          "type": "File",
-          "artifact": {
-            "size": 563147,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/bedratest.jpg",
-            "MD5": "46171d68879d65fc2640a256bef7b4b5",
-            "path": "config/fancymenu/assets/bedratest.jpg"
-          }
-        },
-        {
-          "id": "bedrateste.jpg",
-          "name": "bedrateste.jpg",
-          "type": "File",
-          "artifact": {
-            "size": 565741,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/bedrateste.jpg",
-            "MD5": "651ad1c3503ad16ffc5454c79655575e",
-            "path": "config/fancymenu/assets/bedrateste.jpg"
-          }
-        },
-        {
-          "id": "blacksmith-1.png",
-          "name": "blacksmith-1.png",
-          "type": "File",
-          "artifact": {
-            "size": 10606,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/blacksmith-1.png",
-            "MD5": "fc839fd8f2d80f6218720d3c4cacc530",
-            "path": "config/fancymenu/assets/blacksmith-1.png"
-          }
-        },
-        {
-          "id": "blacksmith-2.png",
-          "name": "blacksmith-2.png",
-          "type": "File",
-          "artifact": {
-            "size": 9285,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/blacksmith-2.png",
-            "MD5": "75a3607330a57c1ed1ccfb4390b41b85",
-            "path": "config/fancymenu/assets/blacksmith-2.png"
-          }
-        },
-        {
-          "id": "blank.png",
-          "name": "blank.png",
-          "type": "File",
-          "artifact": {
-            "size": 249,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/blank.png",
-            "MD5": "ae8e4a50a0737a03bcc42c58036111f0",
-            "path": "config/fancymenu/assets/blank.png"
-          }
-        },
-        {
           "id": "blur.png",
           "name": "blur.png",
           "type": "File",
@@ -2293,39 +2181,6 @@
           }
         },
         {
-          "id": "button-hover.png",
-          "name": "button-hover.png",
-          "type": "File",
-          "artifact": {
-            "size": 568,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/button-hover.png",
-            "MD5": "a11b85b29b2dbb3a4bc2babb217ee0bf",
-            "path": "config/fancymenu/assets/button-hover.png"
-          }
-        },
-        {
-          "id": "button.png",
-          "name": "button.png",
-          "type": "File",
-          "artifact": {
-            "size": 586,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/button.png",
-            "MD5": "be96ed30cdb48f2f5b708721047ddfb5",
-            "path": "config/fancymenu/assets/button.png"
-          }
-        },
-        {
-          "id": "cadre.png",
-          "name": "cadre.png",
-          "type": "File",
-          "artifact": {
-            "size": 2909494,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/cadre.png",
-            "MD5": "b3947d5d6f6009fa4e4969f296b22eea",
-            "path": "config/fancymenu/assets/cadre.png"
-          }
-        },
-        {
           "id": "compo.gif",
           "name": "compo.gif",
           "type": "File",
@@ -2334,17 +2189,6 @@
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/compo.gif",
             "MD5": "68ead7d522d15086bf1d6549e2f4bdb1",
             "path": "config/fancymenu/assets/compo.gif"
-          }
-        },
-        {
-          "id": "connexion.wav",
-          "name": "connexion.wav",
-          "type": "File",
-          "artifact": {
-            "size": 37490766,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/connexion.wav",
-            "MD5": "1af4359e726852d38df1ab9c632f3cca",
-            "path": "config/fancymenu/assets/connexion.wav"
           }
         },
         {
@@ -2381,17 +2225,6 @@
           }
         },
         {
-          "id": "forge.png",
-          "name": "forge.png",
-          "type": "File",
-          "artifact": {
-            "size": 2230,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/forge.png",
-            "MD5": "6fc60d18062f29cf663460330518e8a6",
-            "path": "config/fancymenu/assets/forge.png"
-          }
-        },
-        {
           "id": "forge.wav",
           "name": "forge.wav",
           "type": "File",
@@ -2411,17 +2244,6 @@
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/imresizer-1731633536202.png",
             "MD5": "7481ecdf583593151ee9517d04b36d34",
             "path": "config/fancymenu/assets/imresizer-1731633536202.png"
-          }
-        },
-        {
-          "id": "loading.png",
-          "name": "loading.png",
-          "type": "File",
-          "artifact": {
-            "size": 106860,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/loading.png",
-            "MD5": "af387716430332f45486bc5fef0eacc8",
-            "path": "config/fancymenu/assets/loading.png"
           }
         },
         {
@@ -2458,17 +2280,6 @@
           }
         },
         {
-          "id": "ouverture.wav",
-          "name": "ouverture.wav",
-          "type": "File",
-          "artifact": {
-            "size": 43593806,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/ouverture.wav",
-            "MD5": "44e259947dfd3e2e6a41314abdf65df1",
-            "path": "config/fancymenu/assets/ouverture.wav"
-          }
-        },
-        {
           "id": "portailb.gif",
           "name": "portailb.gif",
           "type": "File",
@@ -2488,39 +2299,6 @@
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/portailv.gif",
             "MD5": "41ea6082879ec71f3816f2a5102de368",
             "path": "config/fancymenu/assets/portailv.gif"
-          }
-        },
-        {
-          "id": "quitter.png",
-          "name": "quitter.png",
-          "type": "File",
-          "artifact": {
-            "size": 8698,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/quitter.png",
-            "MD5": "7e3178e83dbf3c43dba645c7de66b140",
-            "path": "config/fancymenu/assets/quitter.png"
-          }
-        },
-        {
-          "id": "returnhome-basic.png",
-          "name": "returnhome-basic.png",
-          "type": "File",
-          "artifact": {
-            "size": 29626,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/returnhome-basic.png",
-            "MD5": "8e7f5ea43ca64e8808ff2935eeee4b3a",
-            "path": "config/fancymenu/assets/returnhome-basic.png"
-          }
-        },
-        {
-          "id": "returnhome-hover.png",
-          "name": "returnhome-hover.png",
-          "type": "File",
-          "artifact": {
-            "size": 27127,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/returnhome-hover.png",
-            "MD5": "0e4e700cf1bc7694756de32bdbdea65e",
-            "path": "config/fancymenu/assets/returnhome-hover.png"
           }
         },
         {
@@ -2557,72 +2335,6 @@
           }
         },
         {
-          "id": "singleplayer-1.png",
-          "name": "singleplayer-1.png",
-          "type": "File",
-          "artifact": {
-            "size": 34964,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/singleplayer-1.png",
-            "MD5": "ddd2dbc4ec51f4215551b8ff4642bad1",
-            "path": "config/fancymenu/assets/singleplayer-1.png"
-          }
-        },
-        {
-          "id": "singleplayer-2.png",
-          "name": "singleplayer-2.png",
-          "type": "File",
-          "artifact": {
-            "size": 32999,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/singleplayer-2.png",
-            "MD5": "49342ae3079873c51089051642ad4065",
-            "path": "config/fancymenu/assets/singleplayer-2.png"
-          }
-        },
-        {
-          "id": "solo.png",
-          "name": "solo.png",
-          "type": "File",
-          "artifact": {
-            "size": 6135,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/solo.png",
-            "MD5": "c05b6b3470472b7670292b1e7ecf63d9",
-            "path": "config/fancymenu/assets/solo.png"
-          }
-        },
-        {
-          "id": "sunni.png",
-          "name": "sunni.png",
-          "type": "File",
-          "artifact": {
-            "size": 5586,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/sunni.png",
-            "MD5": "3403946ba2e6741c81981a6403fc6e50",
-            "path": "config/fancymenu/assets/sunni.png"
-          }
-        },
-        {
-          "id": "tavern-1.png",
-          "name": "tavern-1.png",
-          "type": "File",
-          "artifact": {
-            "size": 21525,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/tavern-1.png",
-            "MD5": "73c2d4bff98def298c133f3c226ec58a",
-            "path": "config/fancymenu/assets/tavern-1.png"
-          }
-        },
-        {
-          "id": "tavern-2.png",
-          "name": "tavern-2.png",
-          "type": "File",
-          "artifact": {
-            "size": 18362,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/tavern-2.png",
-            "MD5": "41c67e36afeb4e225565c2fef5551c82",
-            "path": "config/fancymenu/assets/tavern-2.png"
-          }
-        },
-        {
           "id": "tavernbackground.png",
           "name": "tavernbackground.png",
           "type": "File",
@@ -2634,17 +2346,6 @@
           }
         },
         {
-          "id": "taverne.png",
-          "name": "taverne.png",
-          "type": "File",
-          "artifact": {
-            "size": 3330,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/taverne.png",
-            "MD5": "218cca45c4f0fd22912d4fa9cdf6e5d4",
-            "path": "config/fancymenu/assets/taverne.png"
-          }
-        },
-        {
           "id": "taverne.wav",
           "name": "taverne.wav",
           "type": "File",
@@ -2653,28 +2354,6 @@
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/taverne.wav",
             "MD5": "b19eb24e741356238e5099b8fb6d8a67",
             "path": "config/fancymenu/assets/taverne.wav"
-          }
-        },
-        {
-          "id": "testk.jpg",
-          "name": "testk.jpg",
-          "type": "File",
-          "artifact": {
-            "size": 214243,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/testk.jpg",
-            "MD5": "63fb717dff40d73d27080d52536988d5",
-            "path": "config/fancymenu/assets/testk.jpg"
-          }
-        },
-        {
-          "id": "vidar.png",
-          "name": "vidar.png",
-          "type": "File",
-          "artifact": {
-            "size": 9990,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/config/fancymenu/assets/vidar.png",
-            "MD5": "b883a2f108c6fa8e3f851a09f7f2f9fd",
-            "path": "config/fancymenu/assets/vidar.png"
           }
         },
         {
@@ -3133,9 +2812,9 @@
           "name": "Bedragoth.zip",
           "type": "File",
           "artifact": {
-            "size": 68595594,
+            "size": 63813039,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/files/resourcepacks/Bedragoth.zip",
-            "MD5": "a20f733cd77a499146f9ff685d834be6",
+            "MD5": "15d98570581f923458a71e6660767687",
             "path": "resourcepacks/Bedragoth.zip"
           }
         },
