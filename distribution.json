@@ -797,19 +797,6 @@
           }
         },
         {
-          "id": "com.conquestreforged:conquest:1.2.8@jar",
-          "name": "Conquest",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 164483216,
-            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/forgemods/optionalon/ConquestReforged-fabric-1.20.1-1.2.8.jar",
-            "MD5": "1c15f852da6b8057fdc8e0c57eeb1005"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "generated.forgemod:continuity:3.0.0-beta.6+1.20.1-custom@jar",
           "name": "Continuity",
           "type": "ForgeMod",
