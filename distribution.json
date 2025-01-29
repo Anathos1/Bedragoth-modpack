@@ -2,25 +2,25 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "813603229149560832",
-    "smallImageText": "(1.18.2)",
-    "smallImageKey": "bedra"
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
   "servers": [
     {
       "id": "Bedragoth-1.20.1",
       "name": "Bedragoth (Minecraft 1.20.1)",
       "description": "Bedragoth Running Minecraft 1.20.1 (Forge v47.3.11)",
-      "icon": "https://raw.githubusercontent.com/Anathos77/Test/master/icon.png",
+      "icon": null,
       "version": "1.0.0",
-      "address": "91.197.6.50:25573",
+      "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
-        "shortId": "En Roleplay",
-        "largeImageText": "Bedragoth",
-        "largeImageKey": "bedra"
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
-      "mainServer": true,
+      "mainServer": false,
       "autoconnect": false,
       "modules": [
         {

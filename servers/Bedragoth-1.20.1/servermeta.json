@@ -5,7 +5,7 @@
     "name": "Bedragoth (Minecraft 1.20.1)",
     "description": "Bedragoth Running Minecraft 1.20.1 (Forge v47.3.11)",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "91.197.6.50:25573",
+    "address": "localhost:25565",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
