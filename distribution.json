@@ -2,25 +2,25 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "813603229149560832",
+    "smallImageText": "(1.18.2)",
+    "smallImageKey": "bedra"
   },
   "servers": [
     {
       "id": "Bedragoth-1.20.1",
       "name": "Bedragoth (Minecraft 1.20.1)",
       "description": "Bedragoth Running Minecraft 1.20.1 (Forge v47.3.11)",
-      "icon": null,
+      "icon": "https://raw.githubusercontent.com/Anathos77/Test/master/icon.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "91.197.6.50:25573",
       "minecraftVersion": "1.20.1",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "En Roleplay",
+        "largeImageText": "Bedragoth",
+        "largeImageKey": "bedra"
       },
-      "mainServer": false,
+      "mainServer": true,
       "autoconnect": false,
       "modules": [
         {
@@ -791,6 +791,19 @@
             "size": 9993603,
             "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/forgemods/optionalon/ConquestRecipes-v0.0.8-1.20.1.jar",
             "MD5": "250004ddeec6aa814a0402d64241c3fc"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.conquestreforged:conquest:1.2.8@jar",
+          "name": "Conquest",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 164483216,
+            "url": "https://raw.githubusercontent.com/Anathos77/Test/master/servers/Bedragoth-1.20.1/forgemods/optionalon/ConquestReforged-fabric-1.20.1-1.2.8.jar",
+            "MD5": "1c15f852da6b8057fdc8e0c57eeb1005"
           },
           "required": {
             "value": false
