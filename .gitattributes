@@ -1,1 +1,1 @@
-'ConquestReforged-fabric-1.20.1-1.2.8' filter=lfs diff=lfs merge=lfs -text
+ConquestReforged-fabric-1.20.1-1.2.8.jar filter=lfs diff=lfs merge=lfs -text
